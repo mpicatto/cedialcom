@@ -24,4 +24,6 @@ You can also change styles by modifying the ```public/css``` files.
 
 ##### Issaaf kattan
 # cedialcom
-# cedialcom
+Based on React JS Landing Page Template
+
+Mauro Picatto
