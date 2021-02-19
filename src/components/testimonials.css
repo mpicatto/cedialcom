@@ -1,0 +1,19 @@
+/* .btn-default
+{
+color: rgb(0, 0, 0);
+background-color: #cacaca; 
+border-color: #ffffff; 
+} */
+.btn-default:hover
+{
+    color: rgb(255, 255, 255);
+    background-color: #6094f6; 
+    border-color: #7158ff; 
+    }
+
+.btn-default:focus
+{
+    color: rgb(255, 255, 255);
+    background-color: #6094f6; 
+    border-color: #7158ff; 
+    }

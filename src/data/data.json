@@ -1,0 +1,51 @@
+{
+    "Header": {
+
+        "title": "CEDIALCOM L.V. S.A",
+        "paragraph": "Primer centro de diagnosticos por imagenes de nuestra ciudad"
+
+    },
+    "About": {
+        "paragraph": "Nuestra institución nacio de la iniciativa de un grupo de médicos locales para cubrir la carencia de un centro de diagnóstico nuestra ciudad. Sensibles con la inconveniencia de los pacientes de tener que traladarse a otras ciudades para realizar sus estudios por imágenes, se inviertió en un centro con la tecnología mas moderna y recursos humanos altamente capacidados para brindar la mejor atención. ",
+        "Why": [
+            "Lorem ipsum dolor",
+            "Tempor incididunt",
+            "Lorem ipsum dolor",
+            "Incididunt ut labore"
+        ],
+        "Why2": [
+            "Aliquip ex ea commodo",
+            "Lorem ipsum dolor",
+            "Exercitation ullamco",
+            "Lorem ipsum dolor"
+        ]
+    },
+    "Team": [{
+            "img": "img/team/01.jpg",
+            "name": "Dr Juan Perez",
+            "job": "Director"
+        },
+        {
+            "img": "img/team/02.jpg",
+            "name": "Dr Juan Perez",
+            "job": "Tecnico"
+        }, {
+            "img": "img/team/03.jpg",
+            "name": "Dr Juan Perez",
+            "job": "Tecnico"
+        },
+        {
+            "img": "img/team/04.jpg",
+            "name": "Dr Juan Perez",
+            "job": "Tecnico"
+        }
+    ],
+    "Contact": {
+        "address": "Carlos Pellegrini 123, Las Varillas, Córdoba ",
+        "phone": "+54 3533 456789",
+        "email": "info@company.com",
+        "facebook": "fb.com",
+        "twitter": "instagram.com",
+        "youtube": "youtube.com"
+    }
+}
