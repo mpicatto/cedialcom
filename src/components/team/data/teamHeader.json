@@ -1,0 +1,37 @@
+{
+    "team1":{
+            "image":"img/team/socios.jpg",
+            "overlay":"rgba(0,0,0,0.25)",
+            "title": "Socios Fundadores",
+            "titleColor":"white",
+            "paragraph": "",
+            "paragraphColor":"white"
+        
+    },
+    "team2":{
+
+            "image":"img/team/meds.jpg",
+            "overlay":"rgba(0,0,0,0.25)",
+            "title": "Plantel Médico",
+            "titleColor":"white",
+            "paragraph": "",
+            "paragraphColor":"white"
+
+    },
+    "team3":{
+            "image":"img/team/tecs.jpg",
+            "overlay":"rgba(0,0,0,0.25)",
+            "title": "Plantel Técnico",
+            "titleColor":"white",
+            "paragraph": "",
+            "paragraphColor":"white"
+    },
+    "team4":{
+            "image":"img/team/admins.jpg",
+            "overlay":"rgba(0,0,0,0.25)",
+            "title": "Personal Administrativo",
+            "titleColor":"white",
+            "paragraph": "",
+            "paragraphColor":"white"
+        }
+} 

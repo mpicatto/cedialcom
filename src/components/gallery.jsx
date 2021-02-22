@@ -25,12 +25,12 @@ export function Gallery() {
                   <div className="hover-bg">
                     {" "}
                     <a
-                      href="img/portfolio/01-large.jpg"
+                      href="/ecografias"
                       title="Project Title"
                       data-lightbox-gallery="gallery1"
                     >
                       <div className="hover-text">
-                        <h4>Ecogragias</h4>
+                        <h4>Ecografías</h4>
                       </div>
                       <img
                         src="img/portfolio/01-small.jpg"
@@ -46,12 +46,12 @@ export function Gallery() {
                   <div className="hover-bg">
                     {" "}
                     <a
-                      href="img/portfolio/02-large.jpg"
+                      href="/radiografias"
                       title="Project Title"
                       data-lightbox-gallery="gallery1"
                     >
                       <div className="hover-text">
-                        <h4>Roadiografias</h4>
+                        <h4>Radiografías</h4>
                       </div>
                       <img
                         src="img/portfolio/02-small.jpg"
@@ -67,12 +67,12 @@ export function Gallery() {
                   <div className="hover-bg">
                     {" "}
                     <a
-                      href="img/portfolio/03-large.jpg"
+                      href="/tomografias"
                       title="Project Title"
                       data-lightbox-gallery="gallery1"
                     >
                       <div className="hover-text">
-                        <h4>Tomografias</h4>
+                        <h4>Tomografías</h4>
                       </div>
                       <img
                         src="img/portfolio/03-small.jpg"

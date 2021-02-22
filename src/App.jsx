@@ -1,40 +1,28 @@
-import React, { Component } from 'react'
-import Navigation from './components/navigation';
-import Header from './components/header';
-import About from './components/about';
-import Gallery from './components/gallery';
-import Testimonials from './components/testimonials';
-import Team from './components/Team';
-import Contact from './components/contact';
-import JsonData from './data/data.json';
+//---------------------libraries---------------------
+import React from 'react'
+import {Route} from 'react-router-dom';
+//---------------------Components------------------------
+import Landing from './components/index'
+import Ecografias from './components/servicios/ecografias'
+import Radiografias from './components/servicios/radiografias'
+import Tomografias from './components/servicios/tomografias'
+import Socios from './components/team/socios'
+import Medicos from './components/team/medicos'
+import Tecnicos from './components/team/tecnicos'
+import Administrativos from './components/team/administrativos'
 
-export class App extends Component {
-  state = {
-    landingPageData: {},
-  }
-  getlandingPageData() {
-    this.setState({landingPageData : JsonData})
-  }
 
-  componentDidMount() {
-    this.getlandingPageData();
-  }
-
-  render() {
-    return (
-      <div>
-        <Navigation />
-        <Header data={this.state.landingPageData.Header} />
-        {/* <Features data={this.state.landingPageData.Features} /> */}
-        <About data={this.state.landingPageData.About} />
-        {/* <Services data={this.state.landingPageData.Services} /> */}
-        <Gallery />
-        <Testimonials data={this.state.landingPageData.Testimonials} />
-        <Team data={this.state.landingPageData.Team} />
-        <Contact data={this.state.landingPageData.Contact} />
-      </div>
-    )
-  }
-}
+const App = () => (
+  <div>
+    <Route exact path='/' component={Landing} />
+    <Route exact path='/ecografias' component={Ecografias} />
+    <Route exact path='/radiografias' component={Radiografias} />
+    <Route exact path='/tomografias' component={Tomografias} />
+    <Route exact path='/socios' component={Socios} />
+    <Route exact path='/medicos' component={Medicos} />
+    <Route exact path='/tecnicos' component={Tecnicos} />
+    <Route exact path='/administrativos' component={Administrativos} />
+  </div>
+)
 
 export default App;

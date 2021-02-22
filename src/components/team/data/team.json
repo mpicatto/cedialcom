@@ -1,0 +1,142 @@
+
+{
+    "team1": {
+        "imgPos":"left",
+        "imgUrl":"img/about.jpg",
+        "title":"Socios Fundadores",
+        "paragraph": "",
+        "team": [{
+            "img": "img/team/01.jpg",
+            "name": "Dra Graciela Ortega",
+            "job": "Presidente"
+        },
+        {
+            "img": "img/team/02.jpg",
+            "name": "Dr Gustavo Insaurralde",
+            "job": "Vice Pte 1ro"
+        }, {
+            "img": "img/team/03.jpg",
+            "name": "Dr Hugo Lupi",
+            "job": "Vice Pte 2do"
+        }],
+        "team1":[
+        {
+            "img": "img/team/04.jpg",
+            "name": "Dra Graciela Napione",
+            "job": "Consejero"
+        },
+        {
+            "img": "img/team/04.jpg",
+            "name": "Dr Pedro Hernandez",
+            "job": "Consejero"
+        }
+    ]
+    },
+    "team2": {
+        "imgPos":"right",
+        "imgUrl":"img/about.jpg",
+        "title":"Plantel Médico",
+        "paragraph": "",
+        "team": [{
+            "img": "img/team/01.jpg",
+            "name": "Dr Roberto Benítez",
+            "job": "Director Médico"
+        },
+        {
+            "img": "img/team/02.jpg",
+            "name": "Dr Gabriel Navarro",
+            "job": ""
+        }, {
+            "img": "img/team/03.jpg",
+            "name": "Dra Gabriela Olivero",
+            "job": ""
+        }],
+        "team1":[
+        {
+            "img": "img/team/04.jpg",
+            "name": "Dra Romina Hernandez",
+            "job": ""
+        },
+        {
+            "img": "img/team/04.jpg",
+            "name": "Dr Martin Tonini",
+            "job": ""
+        }
+    ]
+    },
+    "team3": {
+        "imgPos":"left",
+        "imgUrl":"img/about.jpg",
+        "title":"Plantel Técnico",
+        "paragraph": "",
+        "team": [{
+            "img": "img/team/01.jpg",
+            "name": "Lic Cesar Brizzio",
+            "job": ""
+        },
+        {
+            "img": "img/team/02.jpg",
+            "name": "Lic Marcela Arnaudo",
+            "job": ""
+        }, {
+            "img": "img/team/03.jpg",
+            "name": "Lic Marianela Comba",
+            "job": ""
+        }],
+        "team1":[
+        {
+            "img": "img/team/04.jpg",
+            "name": "Lic Gonzalo Farías",
+            "job": ""
+        },
+        {
+            "img": "img/team/04.jpg",
+            "name": "Lic Juan Jose Mainero",
+            "job": ""
+        }
+    ]
+    },
+    "team4": {
+        "imgPos":"right",
+        "imgUrl":"img/about.jpg",
+        "title":"Personal Administrativo",
+        "paragraph": "",
+        "team": [{
+            "img": "img/team/01.jpg",
+            "name": "Verónica Lazcano",
+            "job": ""
+        },
+        {
+            "img": "img/team/02.jpg",
+            "name": "Natalí Gottero",
+            "job": ""
+        }, {
+            "img": "img/team/03.jpg",
+            "name": "Jesica Crespin",
+            "job": ""
+        },
+        {
+            "img": "img/team/04.jpg",
+            "name": "Fabiana Arese",
+            "job": ""
+        }],
+        "team1":[
+        {
+            "img": "img/team/04.jpg",
+            "name": "Lucia Acevedo",
+            "job": ""
+        },
+        {
+            "img": "img/team/04.jpg",
+            "name": "Aldana Protti",
+            "job": ""
+        },
+        {
+            "img": "img/team/04.jpg",
+            "name": "Gisela Canet",
+            "job": ""
+        }
+    ]
+    }
+    
+}
