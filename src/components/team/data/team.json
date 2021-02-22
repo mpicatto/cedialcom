@@ -6,27 +6,27 @@
         "title":"Socios Fundadores",
         "paragraph": "",
         "team": [{
-            "img": "img/team/01.jpg",
+            "img": "img/team/socios/gortega.jpg",
             "name": "Dra Graciela Ortega",
             "job": "Presidente"
         },
         {
-            "img": "img/team/02.jpg",
+            "img": "img/team/socios/ginsaurralde.jpg",
             "name": "Dr Gustavo Insaurralde",
             "job": "Vice Pte 1ro"
         }, {
-            "img": "img/team/03.jpg",
+            "img": "img/team/socios/hlupi.jpg",
             "name": "Dr Hugo Lupi",
             "job": "Vice Pte 2do"
         }],
         "team1":[
         {
-            "img": "img/team/04.jpg",
+            "img": "img/team/socios/gnapione.jpg",
             "name": "Dra Graciela Napione",
             "job": "Consejero"
         },
         {
-            "img": "img/team/04.jpg",
+            "img": "img/team/socios/phernandez.jpg",
             "name": "Dr Pedro Hernandez",
             "job": "Consejero"
         }
@@ -38,27 +38,27 @@
         "title":"Plantel Médico",
         "paragraph": "",
         "team": [{
-            "img": "img/team/01.jpg",
+            "img": "img/team/meds/rbenitez.jpg",
             "name": "Dr Roberto Benítez",
             "job": "Director Médico"
         },
         {
-            "img": "img/team/02.jpg",
+            "img": "img/team/meds/gnavarro.jpg",
             "name": "Dr Gabriel Navarro",
             "job": ""
         }, {
-            "img": "img/team/03.jpg",
+            "img": "img/team/meds/golivero.jpg",
             "name": "Dra Gabriela Olivero",
             "job": ""
         }],
         "team1":[
         {
-            "img": "img/team/04.jpg",
+            "img": "img/team/meds/rhernandez.jpg",
             "name": "Dra Romina Hernandez",
             "job": ""
         },
         {
-            "img": "img/team/04.jpg",
+            "img": "img/team/meds/mtonini.jpg",
             "name": "Dr Martin Tonini",
             "job": ""
         }
@@ -70,22 +70,22 @@
         "title":"Plantel Técnico",
         "paragraph": "",
         "team": [{
-            "img": "img/team/01.jpg",
+            "img": "img/team/tecs/cbrizzio.jpg",
             "name": "Lic Cesar Brizzio",
             "job": ""
         },
         {
-            "img": "img/team/02.jpg",
+            "img": "img/team/tecs/marnaudo.jpg",
             "name": "Lic Marcela Arnaudo",
             "job": ""
         }, {
-            "img": "img/team/03.jpg",
+            "img": "img/team/tecs/mcomba.jpg",
             "name": "Lic Marianela Comba",
             "job": ""
         }],
         "team1":[
         {
-            "img": "img/team/04.jpg",
+            "img": "img/team/tecs/gfarias.jpg",
             "name": "Lic Gonzalo Farías",
             "job": ""
         },
@@ -102,37 +102,37 @@
         "title":"Personal Administrativo",
         "paragraph": "",
         "team": [{
-            "img": "img/team/01.jpg",
+            "img": "img/team/admin/vlezcano.jpg",
             "name": "Verónica Lazcano",
             "job": ""
         },
         {
-            "img": "img/team/02.jpg",
+            "img": "img/team/admin/ngottero.jpg",
             "name": "Natalí Gottero",
             "job": ""
         }, {
-            "img": "img/team/03.jpg",
+            "img": "img/team/admin/jcrespin.jpg",
             "name": "Jesica Crespin",
             "job": ""
         },
         {
-            "img": "img/team/04.jpg",
+            "img": "img/team/admin/farese.jpg",
             "name": "Fabiana Arese",
             "job": ""
         }],
         "team1":[
         {
-            "img": "img/team/04.jpg",
+            "img": "img/team/admin/lacevedo.jpg",
             "name": "Lucia Acevedo",
             "job": ""
         },
         {
-            "img": "img/team/04.jpg",
+            "img": "img/team/admin/aprotti.jpg",
             "name": "Aldana Protti",
             "job": ""
         },
         {
-            "img": "img/team/04.jpg",
+            "img": "img/team/admin/jcanet.jpg",
             "name": "Gisela Canet",
             "job": ""
         }
