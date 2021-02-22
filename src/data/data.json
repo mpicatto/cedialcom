@@ -1,8 +1,11 @@
 {
     "Header": {
-
+        "image":"img/intro-bg.jpg",
+        "overlay":"rgba(0,0,0,0.2)",
         "title": "CEDIALCOM L.V. S.A",
-        "paragraph": "Primer centro de diagnosticos por imagenes de nuestra ciudad"
+        "titleColor":"black",
+        "paragraph": "Primer centro de diagnosticos por imagenes de nuestra ciudad",
+        "paragraphColor":"black"
 
     },
     "About": {

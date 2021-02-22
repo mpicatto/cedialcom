@@ -1,0 +1,56 @@
+{
+    "Header": {
+        "image":"img/portfolio/03-large.jpg",
+        "overlay":"rgba(99,114,255,0.45)",
+        "title": "Tomografías",
+        "titleColor":"white",
+        "paragraph": "",
+        "paragraphColor":"white"
+    },
+    "Text1": {
+    	"id":"tac.p1",
+    	"imgPos":"",
+    	"imgUrl":"",
+    	"titleType":"title",
+    	"title":"TOMOGRAFÍA COMPUTADA:",
+    	"subtitle":"",
+        "paragraph": "CEDIALCOM LV SA  cuenta con un nuevo equipo de Tomografía Computada Multicorte con tecnología de reconstrucción 3D, lo cual permite obtener imágenes de excelente  calidad en menos tiempo. Su sistema de 16 cortes por rotación y 32 por reconstrucción en menos de un segundo,  constituye un significativo incremento de la resolución y de la capacidad de reconocer lesiones más pequeñas. La importancia del menor tiempo de exposición, por ejemplo: una tomografía de tórax se realiza entre 14 y 16 segundos y una de cráneo entre 8 a 10 segundos,  y por sus técnicas de reducción de dosis  se disminuye  la exposición a la radiación en forma significativa. De la misma manera  se obtiene otro beneficio que es la reducción de la administración de contraste iodado para los estudios contrastados. Su camilla admite  hasta 160 kilos de peso lo cual permite la mejor exploración de pacientes obesos."
+    },
+    "Text2": {
+    	"id":"tac.p2",
+    	"imgPos":"",
+    	"imgUrl":"",
+    	"titleType":"",
+    	"title":"",
+    	"subtitle":"",
+        "paragraph": "Desde 1972, momento en que se hacen los primeros ensayos clínicos sobre tomografía computada hasta hoy, estos equipos han evolucionado de manera increíble: la versatilidad, el uso múltiple para diferentes diagnósticos, la rapidez, la relación costo beneficio y otros aspectos hacen que este equipo sea considerado uno de los mejores inventos del siglo 20."
+
+    },
+    "Text3": {
+    	"id":"tac.p3",
+    	"imgPos":"",
+    	"imgUrl":"",
+    	"titleType":"",
+    	"title":"",
+    	"subtitle":"",
+        "paragraph":"Las Varillas y la región  cuentan con un equipo moderno que permite evaluar aspectos de la enfermedad de un paciente para definir rápidamente la conducta a seguir." 
+    },
+    "Text4": {
+    	"id":"tac.p4",
+    	"imgPos":"",
+    	"imgUrl":"",
+    	"titleType":"",
+    	"title":"",
+    	"subtitle":"",
+        "paragraph":"CEDICALCOM LV SA agradece una vez más a la comunidad confiar en sus diagnósticos." 
+    },
+    
+    "Contact": {
+        "address": "Carlos Pellegrini 123, Las Varillas, Córdoba ",
+        "phone": "+54 3533 456789",
+        "email": "info@company.com",
+        "facebook": "fb.com",
+        "twitter": "instagram.com",
+        "youtube": "youtube.com"
+    }
+}

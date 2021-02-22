@@ -1,0 +1,32 @@
+
+  #mugshots {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      justify-items: center;
+      padding-top: 5%;
+  }
+
+  #mugshots .team-img {
+    width: 300px;   
+}
+
+@media (min-width: 500px) {
+    #mugshots .team-img {
+        width: 100%;
+    }
+    #mugshots  {
+        flex-direction:row;
+        justify-content: space-around;
+    }
+  }
+
+  @media (min-width: 10000px) {
+    #mugshots .team-img {
+        width: 240px;
+    }
+    #mugshots  {
+        flex-direction:row;
+        justify-content: space-around;
+    }
+  }

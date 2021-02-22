@@ -1,0 +1,172 @@
+{
+    "Header": {
+        "image":"img/portfolio/02-large.jpg",
+        "overlay":"rgba(99,114,255,0.45)",
+        "title": "Radiografías",
+        "titleColor":"white",
+        "paragraph": "",
+        "paragraphColor":"white"
+    },
+    "Text1": {
+    	"id":"rad.p1",
+    	"imgPos":"",
+    	"imgUrl":"",
+    	"titleType":"title",
+    	"title":"Radiografía Digital:",
+    	"subtitle":"",
+        "paragraph": "Es la obtención de imágenes médicas mediante la emisión de rayos X, la obtención de datos se realiza con un sistema de digitalización para procesar y mejorar la calidad de imágenes y así optimizar la sensibilidad diagnóstica. Está contraindicada en pacientes embarazadas (salvo casos especiales o radiografía de embarazo avanzado que se utiliza para valorar la posición fetal y la relación del tamaño entre la cabeza fetal y la pelvis materna). No requieren preparación especial, recordar que se deben retirar todos los elementos metálicos del área donde se realizará el estudio (por ejemplo: anillos en caso de radiografías de mano, collares o cadenitas en caso de radiografía de tórax)"
+    },
+    "Text2": {
+    	"id":"rad.p2",
+    	"imgPos":"",
+    	"imgUrl":"",
+    	"titleType":"subtitle",
+    	"title":"",
+    	"subtitle":"Radiografía osteoarticular: ",
+        "paragraph": "Es un estudio dedicado a la obtención de imágenes radiológicas digitales a través de la emisión de rayos X el cual es captado y digitalizado por un sistema de recolección de datos, con el objetivo de valorar los elemento óseos (huesos y articulaciones). Solo requiere que el paciente se retire la ropa y  los elementos metálicos del área a examinar. El estudio puede durar 5 minutos* por proyección radiológica. Ejemplos:",
+        "lista": [
+            "Radiografía de rodilla",
+            "Radiografía de codo",
+            "Radiografía de tobillo",
+            "Radiografía de cadera",
+            "Radiografía de hombro",
+            "etc."
+        ]
+    },
+    "Text3": {
+    	"id":"rad.p3",
+    	"imgPos":"",
+    	"imgUrl":"",
+    	"titleType":"subtitle",
+    	"title":"",
+    	"subtitle":"Radiografía tórax: ",
+        "paragraph": "Es un estudio dedicado a la obtención de imágenes radiológicas digitales a través de la emisión de rayos X el cual es captado y digitalizado por un sistema de recolección de datos, con el objetivo de valorar ambos pulmones, área cardiaca así como las costillas de ambos lados. Solo requiere que el paciente se retire la ropa y  los elementos metálicos del área a examinar. El estudio puede durar 5 minutos* por proyección radiológica." 
+    },
+    "Text4": {
+    	"id":"rad.p4",
+    	"imgPos":"",
+    	"imgUrl":"",
+    	"titleType":"subtitle",
+    	"title":"",
+    	"subtitle":"Radiografía directa de abdomen:",
+        "paragraph":"Es un estudio dedicado a la obtención de imágenes radiológicas digitales a través de la emisión de rayos X el cual es captado y digitalizado por un sistema de recolección de datos, con el objetivo de valorar la distribución de gas intestinal así como la presencia de cálculos renales o elementos metálicos ingeridos entre muchos otros usos . Solo requiere que el paciente se retire la ropa y  los elementos metálicos del área a examinar. El estudio puede durar 5 minutos* por proyección radiológica.        " 
+    },
+    "Text5": {
+    	"id":"rad.p5",
+    	"imgPos":"",
+    	"imgUrl":"",
+    	"titleType":"title",
+    	"title":"Estudios contrastados:",
+    	"subtitle":"",
+        "paragraph":"La mayoría de ellos requiere preparación y se usa material de contraste iodado o baritado según el estudio a realizar, estos contrastes son opacos a los rayos X por lo cual permite valorar órganos huecos, cavidades u o posibles comunicaciones entre órganos y/o cavidades." 
+    },
+    "Text6": {
+    	"id":"rad.p6",
+    	"imgPos":"",
+    	"imgUrl":"",
+    	"titleType":"subtitle",
+    	"title":"",
+    	"subtitle":"ESTUDIOS QUE REQUIEREN CONTRASTE A BASE DE IODADO:",
+        "paragraph": "" 
+    },
+    "Text7": {
+    	"id":"rad.p7",
+    	"imgPos":"",
+    	"imgUrl":"",
+    	"titleType":"subtitle",
+    	"title":"",
+    	"subtitle":"Uretrocistografía:",
+        "paragraph":"Este examen consiste en el llenado de la vejiga con material de contraste iodado, para luego valorar la uretra en diversas posiciones con control seriográfico y toma de imágenes radiológicas digitales. No requiere preparación y el estudio puede durar 30 minutos aproximadamente*." 
+    },
+    "Text8": {
+    	"id":"rad.p8",
+    	"imgPos":"",
+    	"imgUrl":"",
+    	"titleType":"subtitle",
+    	"title":"",
+    	"subtitle":"Urograma De Excreción:",
+        "paragraph":"Este examen se utiliza para conocer la manera en que los riñones concentran en su parénquima y eliminan a través de la via urinaria el contraste iodado inyectado en  una vena periférica. Se toman una serie de imágenes radiológicas digitales en un tiempo preestablecido. Requiere  de al menos 4 horas de ayuno y puede durar hasta 40 minutos aproximadamente*." 
+    },
+    "Text9": {
+    	"id":"rad.p9",
+    	"imgPos":"",
+    	"imgUrl":"",
+    	"titleType":"subtitle",
+    	"title":"",
+    	"subtitle":"Histerosalpingografía:",
+        "paragraph":"Este examen consiste en hacer progresar contraste iodado, a través del orificio del cuello del útero, a la cavidad uterina y desde allí a las trompas de Falopio, el procedimiento se realiza con control seriográfico y toma de imágenes radiológicas digitales. El objetivo es descartar adherencias del canal del cuello uterino, lesión en el interior de la cavidad uterina, pero el objetivo principal es la valoración de las trompas de Falopio y la comprobación de que las mismas no se encuentren obstruidas. El estudio puede durar 30 minutos aproximadamente*, se debe realizar en los primeros días del ciclo menstrual y no requiere preparación." 
+    },
+    "Text10": {
+    	"id":"rad.p10",
+    	"imgPos":"",
+    	"imgUrl":"",
+    	"titleType":"subtitle",
+    	"title":"",
+    	"subtitle":"Colangiografía Post-Quirúrgica e Intraquirúrgica:",
+        "paragraph":"Consiste en el examen del a vía biliar intrahepática y extrahepática con la administración de contraste de iodo a través el tubo de drenaje que se coloca durante las cirugías de vesícula biliar, se puede realizar dentro del quirófano (intraoperatoria) o de manera ambulatoria (post quirúrgica), se valora con control seriográfico y toma de imágenes radiológicas digitales el objetivo. El objetivo es valorar el aspecto y tamaño de la vía biliar y descartar probables cálculos que hayan pasado desde la vesícula a la vía biliar. No requiere preparación y el estudio puede durar 15 minutos*." 
+    },
+    "Text11": {
+    	"id":"rad.p11",
+    	"imgPos":"",
+    	"imgUrl":"",
+    	"titleType":"subtitle",
+    	"title":"",
+    	"subtitle":"Fistulografías:",
+        "paragraph":" En este estudio se coloca material de contraste en las fístulas para observarlas con intensificador de imágenes y tomar radiografías digitales y demostrar su recorrido  (en estos casos se usa contraste a base de iodo). No requiere preparación y el examen puede durar 15 minutos*." 
+    },
+    "Text12": {
+    	"id":"rad.p12",
+    	"imgPos":"",
+    	"imgUrl":"",
+    	"titleType":"subtitle",
+    	"title":"",
+    	"subtitle":"ESTUDIOS EN LOS QUE SE USA BARIO COMO MATERIAL DE CONTRASTE:",
+        "paragraph":"" 
+    },
+    "Text13": {
+    	"id":"rad.p13",
+    	"imgPos":"",
+    	"imgUrl":"",
+    	"titleType":"subtitle",
+    	"title":"",
+    	"subtitle":"Colon Por Enema:",
+        "paragraph":"El estudio consiste en hacer progresar material de contraste de bario, por medio de un enema, desde el recto hasta el ciego (primera porción del colon), el estudio se sigue y dirige por medio del seriógrafo y se toman imágenes radiológicas digitales simultáneas a la realización del mismo. Requiere preparación, laxante y/o enemas evacuantes y dieta líquida los días anteriores al  examen. La duración del examen es de aproximadamente 40 minutos*." 
+    },
+    "Text14": {
+    	"id":"rad.p14",
+    	"imgPos":"",
+    	"imgUrl":"",
+    	"titleType":"subtitle",
+    	"title":"",
+    	"subtitle":"Estudio Seriado Esófago-Gastro-Duodenal:",
+        "paragraph":"Este examen consiste en el estudio en serie del tránsito o recorrido del contraste de bario a través de faringe, esófago, estómago hasta la primera porción del intestino delgado (duodeno), se realiza con control seriográfico y toma de imágenes radiológicas digitales simultáneas. El examen requiere preparación que consiste de ayuno de  6 horas y puede durar 30 minutos aproximadamente*." 
+    },
+    "Text15": {
+    	"id":"rad.p15",
+    	"imgPos":"",
+    	"imgUrl":"",
+    	"titleType":"subtitle",
+    	"title":"",
+    	"subtitle":"Tránsito Intestinal.",
+        "paragraph":"En este examen se realiza un seguimiento y valoración del recorrido del contraste de bario desde su ingestión y a través de  faringe, esófago, estómago, yeyuno e íleon (intestino delgado). Se realiza con control seriográfico y toma de imágenes radiológicas digitales. El principal objetivo es valorar el intestino delgado. El estudio requiere de preparación que consiste en ayuno. La duración del estudio es muy variable puede durar desde menos de 4 hs o inclusive 8 horas aproximadamente, depende de la velocidad del proceso digestivo  de cada paciente, cabe recordar que durante el estudio el paciente luego de comenzado el examen puede salir de la institución y volver hasta que el estudio concluya o sea cuando el contraste llegue al colon." 
+    },
+
+    "Text21": {
+    	"id":"eco.p21",
+    	"imgPos":"",
+    	"imgUrl":"",
+    	"titleType":"",
+    	"title":"",
+    	"subtitle":"",
+        "paragraph":"*La duración del estudio no incluye el ingreso del paciente, la muda de ropa ni la anamnesis previa con el paciente para conocer su caso." 
+    },
+   
+    "Contact": {
+        "address": "Carlos Pellegrini 123, Las Varillas, Córdoba ",
+        "phone": "+54 3533 456789",
+        "email": "info@company.com",
+        "facebook": "fb.com",
+        "twitter": "instagram.com",
+        "youtube": "youtube.com"
+    }
+}

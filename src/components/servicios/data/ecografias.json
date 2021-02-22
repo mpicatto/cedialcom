@@ -1,0 +1,306 @@
+{
+    "Header": {
+        "image":"img/portfolio/01-large.jpg",
+        "overlay":"rgba(99,114,255,0.45)",
+        "title": "Ecografias",
+        "titleColor":"white",
+        "paragraph": "",
+        "paragraphColor":"white"
+    },
+    "Text1": {
+    	"id":"eco.p1",
+    	"imgPos":"",
+    	"imgUrl":"",
+    	"titleType":"title",
+    	"title":"La Ecografía:",
+    	"subtitle":"",
+        "paragraph": "La ecografía es la obtención de imágenes médicas diagnosticas mediante la emisión y recepción casi simultánea de ondas de ultrasonido (sonido de alta frecuencia que está muy por encima del espectro audible), es un estudio que no produce efectos biológicos ni adversos y en algunos casos se requiere preparación."
+    },
+    "Text2": {
+    	"id":"eco.p2",
+    	"imgPos":"",
+    	"imgUrl":"",
+    	"titleType":"subtitle",
+    	"title":"",
+    	"subtitle":"Ecografía  obstétrica de alta resolución: ",
+        "paragraph": "Este estudio consiste en la valoración de la vitalidad, posición crecimiento fetal. El estudio pude durar de 5 a 15 minutos*. Solo requiere preparación, (retención de orina), en el primer trimestre."
+    },
+    "Text3": {
+    	"id":"eco.p3",
+    	"imgPos":"",
+    	"imgUrl":"",
+    	"titleType":"subtitle",
+    	"title":"",
+    	"subtitle":"Translucencia nucal con o sin 5D: ",
+        "paragraph": "En este examen se recolectan datos de varios parámetros del feto como por ejemplo el grosor del pliegue de la nuca (de ahí el nombre del estudio) para conocer el riesgo estadístico de padecer patologías cromosómicas como por ejemplo el síndrome de Down. El estudio dura aproximadamente 15 minutos* y no requiere preparación. Este estudio solo puede realizarse entre las semana 12 y la semana 14." 
+    },
+    "Text4": {
+    	"id":"eco.p4",
+    	"imgPos":"",
+    	"imgUrl":"",
+    	"titleType":"subtitle",
+    	"title":"",
+    	"subtitle":"Ecografía  3D, 4D Y 5D: ",
+        "paragraph": "Este estudio es un examen detallado de la anatomía del feto con sonda volumétrica de alta resolución y seguimiento de crecimiento fetal,  gracias a la tecnología 3D-4D-5D se puede logar la reconstrucción de la cara fetal con software especializado.  El tiempo óptimo para este estudio es entre la semana 26 y 29. No requiere preparación, el estudio dura entre 20 y 30 minutos*." 
+    },
+    "Text5": {
+    	"id":"eco.p5",
+    	"imgPos":"",
+    	"imgUrl":"",
+    	"titleType":"subtitle",
+    	"title":"",
+    	"subtitle":"Scan fetal detallado: ",
+        "paragraph": "Se trata del análisis detallado de la anatomía del feto para descartar malformaciones o alteraciones del desarrollo. El periodo adecuado para realizarlo es entre semana 21 a semana 25. El estudio dura aproximadamente entre 15 y 20 minutos*." 
+    },
+    "Text6": {
+    	"id":"eco.p6",
+    	"imgPos":"",
+    	"imgUrl":"",
+    	"titleType":"subtitle",
+    	"title":"",
+    	"subtitle":"Cervicometría:",
+        "paragraph": "Consiste en el examen por vía transvaginal del aspecto y longitud del cuello uterino, así como el canal cervical. El examen se realiza durante el embarazo cuando existe sospecha o riesgo de parto prematuro.la duración del estudio es de aproximadamente 5 minutos*." 
+    },
+    "Text7": {
+    	"id":"eco.p7",
+    	"imgPos":"",
+    	"imgUrl":"",
+    	"titleType":"subtitle",
+    	"title":"",
+    	"subtitle":"Estudio morfológico fetal con doppler obstétrico:",
+        "paragraph":"Este examen se realiza en el segundo trimestre (semana 20) para valorar las estructuras anatómicas del feto, así como también el crecimiento y desarrollo fetal y la valoración con doppler color y pulsado de las arterias uterinas  para conocer el riesgo de padecer hipertensión durante el embarazo.  No requiere preparación. El estudio dura aproximadamente 15 a 20 minutos*." 
+    },
+    "Text8": {
+    	"id":"eco.p8",
+    	"imgPos":"",
+    	"imgUrl":"",
+    	"titleType":"subtitle",
+    	"title":"",
+    	"subtitle":" Ecografía  transfontanelar en recién nacido: ",
+        "paragraph":"Consiste en el examen del cerebro del recién nacido a través de las fontanelas (mollera) que es el espacio entre los huesos del cráneo, u se usa para descartar lesiones encefálicas o seguimiento de lesiones diagnosticadas en el periodo prenatal. El estudio puede durar de 5 a 10 minutos* aunque puede variar según el comportamiento del recién nacido durante el examen." 
+    },
+    "Text9": {
+    	"id":"eco.p9",
+    	"imgPos":"",
+    	"imgUrl":"",
+    	"titleType":"subtitle",
+    	"title":"",
+    	"subtitle":"Ecografía  pediátrica:",
+        "paragraph":"En este caso se trata de un estudio ecográfico en particular, sino  una amplia gama de exámenes ecográficos para el diagnóstico, control o seguimiento de enfermedades en pacientes recién nacidos hasta los 16 años. Por ejemplo ecografía de caderas, ecografía de píloro entre muchas otras. En algunos casos se requiere preparación, (consultar previamente), la duración del estudio varía en cuanto al examen, pero suelen durar aproximadamente 10 minutos*." 
+    },
+    "Text10": {
+    	"id":"eco.p10",
+    	"imgPos":"",
+    	"imgUrl":"",
+    	"titleType":"subtitle",
+    	"title":"",
+    	"subtitle":"Ecografía tiroidea:",
+        "paragraph":"Esta ecografía consiste en el examen anatómico, descartan lesiones focales y descripción del aspecto y volumen de la glándula tiroides y ganglios del cuello. El examen suele durar 5 a 10 minutos*." 
+    },
+    "Text11": {
+    	"id":"eco.p11",
+    	"imgPos":"",
+    	"imgUrl":"",
+    	"titleType":"subtitle",
+    	"title":"",
+    	"subtitle":"Ecografía  ocular:",
+        "paragraph":"Consiste en la medición valoración y descripción de los distintos componentes del ojo, el examen es de principal utilidad en caso de presencia de cataratas y desprendimiento de retina entre otras patologías. El examen dura entre 5 a 10 minutos aproximadamente*." 
+    },
+    "Text12": {
+    	"id":"eco.p12",
+    	"imgPos":"",
+    	"imgUrl":"",
+    	"titleType":"subtitle",
+    	"title":"",
+    	"subtitle":"Ecografía  partes blandas:",
+        "paragraph":"Son un grupo de ecografías que se usan para la valoración de piel, tejido celular subcutáneo y tejido muscular fundamentalmente. El estudio suele durar aproximadamente 10 minutos* y no requiere preparación." 
+    },
+    "Text13": {
+    	"id":"eco.p13",
+    	"imgPos":"",
+    	"imgUrl":"",
+    	"titleType":"subtitle",
+    	"title":"",
+    	"subtitle":"Ecografía  osteoarticular:",
+        "paragraph":"Es un estudio dirigido a la valoración de los componente periarticulares (tendones y ligamentos) y también se usa para descartar y/o valorar derrames articulares. La duración del examen es de 10 minutos aproximadamente*." 
+    },
+    "Text14": {
+    	"id":"eco.p14",
+    	"imgPos":"",
+    	"imgUrl":"",
+    	"titleType":"subtitle",
+    	"title":"",
+    	"subtitle":"Ecografía  abdominal completa:",
+        "paragraph":"Es un examen especializado y dirigido a los órganos sólidos (hígado, bazo, riñones etc.) y de contenido líquido (vesícula biliar y vejiga) de la cavidad abdominal. Requiere preparación (ayuno de 4 a 6 hs). El estudio puede durar entre 5 y 10 minutos*." 
+    },
+    "Text15": {
+    	"id":"eco.p15",
+    	"imgPos":"",
+    	"imgUrl":"",
+    	"titleType":"subtitle",
+    	"title":"",
+    	"subtitle":"Ecografía  renal:",
+        "paragraph":" Este examen consiste en una ecografía especializada de los riñones para   la valoración de la ubicación, forma, tamaño y características de estos, el objetivo es la valoración y seguimiento de enfermedades renales. El estudio suele durar aproximadamente 10 minutos* y no requiere preparación." 
+    },
+    "Text16": {
+    	"id":"eco.p16",
+    	"imgPos":"",
+    	"imgUrl":"",
+    	"titleType":"subtitle",
+    	"title":"",
+    	"subtitle":"Ecografía  vesicoprostática: ",
+        "paragraph":"Esta ecografía es un examen especializado y dirigido para la valoración de la vejiga y próstata, así como  la valoración de la función prostática a través de la medición del residuo postmiccional. Requiere preparación, (retención de orina). El estudio suele durar aproximadamente 10 minutos*." 
+    },
+    "Text17": {
+    	"id":"eco.p17",
+    	"imgPos":"",
+    	"imgUrl":"",
+    	"titleType":"subtitle",
+    	"title":"",
+    	"subtitle":"Ecografía  testicular:",
+        "paragraph":"Es un examen especializado y dirigido parea valorar los testículos, epidídimos, porción visible del cordón espermático y el escroto. El estudio suele durar aproximadamente 10 minutos* y no requiere preparación." 
+    },
+    "Text18": {
+    	"id":"eco.p18",
+    	"imgPos":"",
+    	"imgUrl":"",
+    	"titleType":"subtitle",
+    	"title":"",
+    	"subtitle":"Ecografía  mamaria:",
+        "paragraph":"Es un examen ecográfico de alta resolución especializado en la valoración del tejido mamario y los ganglios axilares. El estudio suele durar aproximadamente 10 minutos* y no requiere preparación." 
+    },
+    "Text19": {
+    	"id":"eco.p19",
+    	"imgPos":"",
+    	"imgUrl":"",
+    	"titleType":"subtitle",
+    	"title":"",
+    	"subtitle":"Ecografía  transvaginal:",
+        "paragraph":"La ecografía transvaginal es un examen que se realiza con una sonda ecográfica especializada (sonda transcavitaria), la cual permite el examen de útero, ovarios y lesiones anexiales a través de la vagina, tiene una resolución muy superior al examen ginecológico realizado a través de la pared abdominal y no está limitado por sobrepeso de la paciente o incontinencia urinaria, ya que no requiere retención de orina. Este examen es habitualmente realizado en los 10 primeros días del ciclo menstrual, salvo algunas indicaciones médicas particulares, tener en cuenta que se puede realizar inclusive con presencia de metrorragia (sangrado). La duración del examen es de 10 minutos* aproximadamente y no requiere preparación." 
+    },
+    "Text20": {
+    	"id":"eco.p20",
+    	"imgPos":"",
+    	"imgUrl":"",
+    	"titleType":"subtitle",
+    	"title":"",
+    	"subtitle":"Recuento folicular: ",
+        "paragraph":"Es una ecografía transvaginal dirigida a la valoración de la cantidad y tamaño de los folículos ováricos (reserva ovárica), el estudio debe realizarse entre el segundo y quinto día del ciclo menstrual (salvo algunos casos puntuales donde se indican según indicación médica en otro momento del ciclo menstrual). La duración del examen es de 10 minutos* aproximadamente y no requiere preparación." 
+    },
+    "Text21": {
+    	"id":"eco.p21",
+    	"imgPos":"",
+    	"imgUrl":"",
+    	"titleType":"",
+    	"title":"",
+    	"subtitle":"",
+        "paragraph":"*La duración del estudio no incluye el ingreso del paciente, la muda de ropa ni la anamnesis previa con el paciente para conocer su caso." 
+    },
+    "Text22": {
+    	"id":"eco.p22",
+    	"imgPos":"",
+    	"imgUrl":"",
+    	"titleType":"title",
+    	"title":"Doppler:",
+    	"subtitle":"",
+        "paragraph":"En este caso las imágenes ecográficas se superponen con imágenes de doppler color y doppler pulsado, usando un software y hardware especializado que incluyen algunos ecógrafos mediante el cual se puede observar y medir fundamentalmente los movimientos de los líquidos (como por ejemplo la cantidad, recorrido y tamaño de vasos sanguíneos y la velocidad y el sentido la sangre en su interior). "
+    },
+    "Text23": {
+    	"id":"eco.p23",
+    	"imgPos":"",
+    	"imgUrl":"",
+    	"titleType":"subtitle",
+    	"title":"",
+    	"subtitle":"Doppler gineco-obstetrico:",
+        "paragraph":"Es un estudio especializado el cual se valora el crecimiento y maduración fetal con ecografía 2D, así como se toma registro doppler color y doppler pulsado de las arterias cerebrales medias, arterias umbilicales y vena umbilical, el objetivo es conocer si el feto recibe la cantidad adecuada de sangre oxigenada al momento del estudio. No requiere preparación y el examen puede durar aproximadamente entre 10 a 20 minutos*." 
+    },
+    "Text24": {
+    	"id":"eco.p24",
+    	"imgPos":"",
+    	"imgUrl":"",
+    	"titleType":"subtitle",
+    	"title":"",
+    	"subtitle":"Doppler de arterias uterinas: ",
+        "paragraph":"En este examen aparte de la valoración en modo 2d del crecimiento y desarrollo fetal se valoran ambas arterias uterinas maternas con registro doppler color y doppler pulsado para valorar la calidad y características del flujo de las arterias que irrigan el útero y por ende la placenta. No requiere preparación y el examen puede durar aproximadamente entre 10 a 20 minutos*." 
+    },
+    "Text25": {
+    	"id":"eco.p25",
+    	"imgPos":"",
+    	"imgUrl":"",
+    	"titleType":"subtitle",
+    	"title":"",
+    	"subtitle":"Doppler testicular:",
+        "paragraph":"El doppler testicular consiste en un examen en modo bidimensional ecográfico para examinar la anatomía de los testículos y epidídimos, y la caracterización de la circulación de dichas estructuras mediante en doppler color y pulsado. No requiere preparación y el examen puede durar aproximadamente 10 minutos*." 
+    },
+    "Text26": {
+    	"id":"eco.p26",
+    	"imgPos":"",
+    	"imgUrl":"",
+    	"titleType":"subtitle",
+    	"title":"",
+    	"subtitle":"Doppler tiroideo: ",
+        "paragraph":"Es el examen ecográfico descriptivo de la glándula tiroides con el agragado de la valoración de la circulación tiroidea valorada en cuanto a distribución y calidad mediante el doppler color y el doppler pulsado. No requiere preparación y el examen puede durar aproximadamente 10 minutos*." 
+    },
+    "Text27": {
+    	"id":"eco.p27",
+    	"imgPos":"",
+    	"imgUrl":"",
+    	"titleType":"subtitle",
+    	"title":"",
+    	"subtitle":"Doppler espleno-portal:",
+        "paragraph":"Este es un examen dirigido a la valoración ecográfica del hígado y bazo fundamentalmente y la valoración del flujo sanguíneo con doppler color y doppler pulsado de la arteria hepática, venas suprahepáticas, vena mesentérica, vena esplénica y vena porta fundamentalmente. Requiere preparación, (ayuno al igual que la ecografía abdominal y se sugiere una dieta libre de harinas al menos el día anterior para disminuir la producción de gas intertinal). La duración del examen es variable y depende de las características anatómicas del abdomen del paciente, como la cantidad de gas gastrointestinal por ejemplo, la duración media del estudio es entre 15 y 20 minutos*." 
+    },
+    "Text28": {
+    	"id":"eco.p28",
+    	"imgPos":"",
+    	"imgUrl":"",
+    	"titleType":"subtitle",
+    	"title":"",
+    	"subtitle":"Doppler renal:",
+        "paragraph":"El doppler de arterias renales es un estudio especializado y dirigido que valora las características anátomo-ecográficas de ambos riñones con ecografía bidimensional y el aspecto, recorrido y presencia de probables lesiones al examen en modo 2D y doppler color- doppler pulsado de las arterias renales, arterias segmentarias, arterias interlobares y arterias arcuatas de ambos riñones. Al igual que el doppler espleno-portal requiere preparación, (ayuno al igual que la ecografía abdominal y se sugiere una dieta libre de harinas al menos el día anterior al examen para disminuir la producción de gas intestinal). La duración del examen es variable y depende de las características anatómicas del abdomen del paciente, como la cantidad de gas gastrointestinal por ejemplo, la duración media del estudio es entre 15 y 20 minutos*." 
+    },
+    "Text29": {
+    	"id":"eco.p29",
+    	"imgPos":"",
+    	"imgUrl":"",
+    	"titleType":"subtitle",
+    	"title":"",
+    	"subtitle":"Doppler de vasos del cuello:",
+        "paragraph":"La valoración de los vasos arteriales del cuello consiste en la realización de cortes longitudinales y transversales en modo 2D de las principales arterias de ambos lado del cuello, con el objetivo de descartar lesiones que reduzcan el calibre interno de los mismos o, en caso de existir lesiones, caracterizarlas, describirlas y analizar el flujo sanguíneo con doppler color y pulsado para conocer su importancia y dirigir su tratamiento adecuado y posterior seguimiento. No requiere preparación y el examen puede durar entre 10 y 15 minutos*." 
+    },
+    "Text30": {
+    	"id":"eco.p30",
+    	"imgPos":"",
+    	"imgUrl":"",
+    	"titleType":"subtitle",
+    	"title":"",
+    	"subtitle":"Doppler arterial de miembros superiores e inferiores:",
+        "paragraph":"Es un estudio con ecografía bidimensional, doppler color y doppler pulsado de los principales troncos arteriales de los miembros inferiores  o superiores para conocer y/o descartar lesiones que comprometen el flujo sanguíneo, para de esta manera se pueda realizar el tratamiento adecuado a solucionar los problemas circulatorios arteriales. No requiere preparación, la duración del estudio puede ser de 20 a 40  minutos*." 
+    },
+    "Text31": {
+    	"id":"eco.p31",
+    	"imgPos":"",
+    	"imgUrl":"",
+    	"titleType":"subtitle",
+    	"title":"",
+    	"subtitle":"Doppler arterial de miembros superiores e inferiores: ",
+        "paragraph":"Es un estudio con ecografía bidimensional, doppler color y doppler pulsado de los principales troncos arteriales de los miembros inferiores  o superiores para conocer y/o descartar lesiones que comprometen el flujo sanguíneo, para de esta manera se pueda realizar el tratamiento adecuado a solucionar los problemas circulatorios arteriales. No requiere preparación, la duración del estudio puede ser de 20 a 40  minutos*." 
+    },
+    "Text32": {
+    	"id":"eco.p32",
+    	"imgPos":"",
+    	"imgUrl":"",
+    	"titleType":"subtitle",
+    	"title":"",
+    	"subtitle":"Doppler venoso de miembros superiores e inferiores: ",
+        "paragraph":"El doppler venoso es un estudio especializado para valorar la función de las válvulas venosas de las venas superficiales y profundas de los miembros superiore  o inferiores, realizando una descripción (mapeo venoso) con doppler color y doppler pulsado, este examen es útil también para el diagnóstico y seguimiento de las trombosis venosas de miembros inferiores superficiales y profundas. No requiere preparación, es muy importante realizar el estudio con el paciente de pie (salvo algunos casos particulares), la duración del estudio es entre 20 y 40 minutos*." 
+    },
+    "Contact": {
+        "address": "Carlos Pellegrini 123, Las Varillas, Córdoba ",
+        "phone": "+54 3533 456789",
+        "email": "info@company.com",
+        "facebook": "fb.com",
+        "twitter": "instagram.com",
+        "youtube": "youtube.com"
+    }
+}
