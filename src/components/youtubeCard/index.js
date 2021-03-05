@@ -26,7 +26,10 @@ const YoutubeCard = (props)=>{
             style={styles}            
           >
             <Video videoId={videoId}/>
-            <Carousel/>
+            <div style={{paddingTop:"10"}}>
+              <Carousel/>
+            </div>
+            
         </div>
 
     )

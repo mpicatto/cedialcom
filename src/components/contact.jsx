@@ -1,7 +1,27 @@
-import React, { Component } from "react";
+import React,{useState} from "react";
+import Axios from 'axios'
 
-export class Contact extends Component {
-  render() {
+const Contact= ()=> {
+
+  const [data,setData]=useState({})
+
+  const emailData = (e) =>{
+    setData({
+      
+    })
+  }
+
+  const sendMail = (e) =>{
+    e.preventDefault();
+    Axios.post('http://localhost:8080',data)
+      .then(res => {
+        if (res) alert("El mensaje ha sido enviado con éxito.");
+      })
+      .catch(err => {
+        if (err) alert("Error al enviar el mensaje; vuelva a intentar.");
+      });
+  }
+
     return (
       <div>
         <div id="contact">
@@ -24,6 +44,7 @@ export class Contact extends Component {
                           className="form-control"
                           placeholder="Nombre"
                           required="required"
+                          onChange={(e)=>emailData(e)}
                         />
                         <p className="help-block text-danger"></p>
                       </div>
@@ -36,6 +57,7 @@ export class Contact extends Component {
                           className="form-control"
                           placeholder="Email"
                           required="required"
+                          onChange={(e)=>emailData(e)}
                         />
                         <p className="help-block text-danger"></p>
                       </div>
@@ -49,11 +71,12 @@ export class Contact extends Component {
                       rows="4"
                       placeholder="Mensaje"
                       required
+                      onChange={(e)=>emailData(e)}
                     ></textarea>
                     <p className="help-block text-danger"></p>
                   </div>
                   <div id="success"></div>
-                  <button type="submit" className="btn btn-custom btn-lg">
+                  <button type="submit" className="btn btn-custom btn-lg" onClick={(e)=>sendMail(e)}>
                     Enviar Mensaje
                   </button>
                 </form>
@@ -122,7 +145,6 @@ export class Contact extends Component {
         </div>
       </div>
     );
-  }
 }
 
 export default Contact;

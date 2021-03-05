@@ -18,30 +18,36 @@
     },
     "Text2": {
     	"id":"eco.p2",
-    	"imgPos":"",
-    	"imgUrl":"",
+    	"imgPos":"left",
+    	"imgUrl":"img/portfolio/ecografias/EcografiaObstetrica/ecoobstetrica2-s.jpg",
     	"titleType":"subtitle",
     	"title":"",
     	"subtitle":"Ecografía  obstétrica de alta resolución: ",
-        "paragraph": "Este estudio consiste en la valoración de la vitalidad, posición crecimiento fetal. El estudio pude durar de 5 a 15 minutos*. Solo requiere preparación, (retención de orina), en el primer trimestre."
-    },
+		"paragraph": "Este estudio consiste en la valoración de la vitalidad, posición crecimiento fetal. El estudio pude durar de 5 a 15 minutos*. Solo requiere preparación, (retención de orina), en el primer trimestre.",
+		"carrouselImgs":[],
+		"carrouselTxt":[]
+	},
     "Text3": {
     	"id":"eco.p3",
-    	"imgPos":"",
-    	"imgUrl":"",
+    	"imgPos":"right",
+    	"imgUrl":"img/portfolio/ecografias/TraslucenciaNucal/nucal6-s.jpg",
     	"titleType":"subtitle",
     	"title":"",
     	"subtitle":"Translucencia nucal con o sin 5D: ",
-        "paragraph": "En este examen se recolectan datos de varios parámetros del feto como por ejemplo el grosor del pliegue de la nuca (de ahí el nombre del estudio) para conocer el riesgo estadístico de padecer patologías cromosómicas como por ejemplo el síndrome de Down. El estudio dura aproximadamente 15 minutos* y no requiere preparación. Este estudio solo puede realizarse entre las semana 12 y la semana 14." 
+		"paragraph": "En este examen se recolectan datos de varios parámetros del feto como por ejemplo el grosor del pliegue de la nuca (de ahí el nombre del estudio) para conocer el riesgo estadístico de padecer patologías cromosómicas como por ejemplo el síndrome de Down. El estudio dura aproximadamente 15 minutos* y no requiere preparación. Este estudio solo puede realizarse entre las semana 12 y la semana 14.",
+		"carrouselImgs":[],
+		"carrouselTxt":[] 
     },
     "Text4": {
     	"id":"eco.p4",
-    	"imgPos":"",
-    	"imgUrl":"",
+    	"imgPos":"left",
+    	"imgUrl":"img/portfolio/ecografias/Eco4D5D/4D5D7-s.jpg",
     	"titleType":"subtitle",
     	"title":"",
     	"subtitle":"Ecografía  3D, 4D Y 5D: ",
-        "paragraph": "Este estudio es un examen detallado de la anatomía del feto con sonda volumétrica de alta resolución y seguimiento de crecimiento fetal,  gracias a la tecnología 3D-4D-5D se puede logar la reconstrucción de la cara fetal con software especializado.  El tiempo óptimo para este estudio es entre la semana 26 y 29. No requiere preparación, el estudio dura entre 20 y 30 minutos*." 
+		"paragraph": "Este estudio es un examen detallado de la anatomía del feto con sonda volumétrica de alta resolución y seguimiento de crecimiento fetal,  gracias a la tecnología 3D-4D-5D se puede logar la reconstrucción de la cara fetal con software especializado.  El tiempo óptimo para este estudio es entre la semana 26 y 29. No requiere preparación, el estudio dura entre 20 y 30 minutos*.",
+		"carrouselImgs":[],
+		"carrouselTxt":[]  
     },
     "Text5": {
     	"id":"eco.p5",
@@ -72,12 +78,14 @@
     },
     "Text8": {
     	"id":"eco.p8",
-    	"imgPos":"",
-    	"imgUrl":"",
+    	"imgPos":"right",
+    	"imgUrl":"img/portfolio/ecografias/EcoTrasfrontelar/Transfrontelar1-s.jpg",
     	"titleType":"subtitle",
     	"title":"",
     	"subtitle":" Ecografía  transfontanelar en recién nacido: ",
-        "paragraph":"Consiste en el examen del cerebro del recién nacido a través de las fontanelas (mollera) que es el espacio entre los huesos del cráneo, u se usa para descartar lesiones encefálicas o seguimiento de lesiones diagnosticadas en el periodo prenatal. El estudio puede durar de 5 a 10 minutos* aunque puede variar según el comportamiento del recién nacido durante el examen." 
+		"paragraph":"Consiste en el examen del cerebro del recién nacido a través de las fontanelas (mollera) que es el espacio entre los huesos del cráneo, u se usa para descartar lesiones encefálicas o seguimiento de lesiones diagnosticadas en el periodo prenatal. El estudio puede durar de 5 a 10 minutos* aunque puede variar según el comportamiento del recién nacido durante el examen.",
+		"carrouselImgs":[],
+		"carrouselTxt":[]  
     },
     "Text9": {
     	"id":"eco.p9",
@@ -126,12 +134,14 @@
     },
     "Text14": {
     	"id":"eco.p14",
-    	"imgPos":"",
-    	"imgUrl":"",
+    	"imgPos":"left",
+    	"imgUrl":"img/portfolio/ecografias/EcoAbs/EcoAbs1-s.jpg",
     	"titleType":"subtitle",
     	"title":"",
     	"subtitle":"Ecografía  abdominal completa:",
-        "paragraph":"Es un examen especializado y dirigido a los órganos sólidos (hígado, bazo, riñones etc.) y de contenido líquido (vesícula biliar y vejiga) de la cavidad abdominal. Requiere preparación (ayuno de 4 a 6 hs). El estudio puede durar entre 5 y 10 minutos*." 
+		"paragraph":"Es un examen especializado y dirigido a los órganos sólidos (hígado, bazo, riñones etc.) y de contenido líquido (vesícula biliar y vejiga) de la cavidad abdominal. Requiere preparación (ayuno de 4 a 6 hs). El estudio puede durar entre 5 y 10 minutos*.",
+		"carrouselImgs":[],
+		"carrouselTxt":[]   
     },
     "Text15": {
     	"id":"eco.p15",
@@ -162,21 +172,25 @@
     },
     "Text18": {
     	"id":"eco.p18",
-    	"imgPos":"",
-    	"imgUrl":"",
+    	"imgPos":"left",
+    	"imgUrl":"img/portfolio/ecografias/EcoMamal/EcoMamal1-s.jpg",
     	"titleType":"subtitle",
     	"title":"",
     	"subtitle":"Ecografía  mamaria:",
-        "paragraph":"Es un examen ecográfico de alta resolución especializado en la valoración del tejido mamario y los ganglios axilares. El estudio suele durar aproximadamente 10 minutos* y no requiere preparación." 
+		"paragraph":"Es un examen ecográfico de alta resolución especializado en la valoración del tejido mamario y los ganglios axilares. El estudio suele durar aproximadamente 10 minutos* y no requiere preparación.",
+		"carrouselImgs":[],
+		"carrouselTxt":[]  
     },
     "Text19": {
     	"id":"eco.p19",
-    	"imgPos":"",
-    	"imgUrl":"",
+    	"imgPos":"right",
+    	"imgUrl":"img/portfolio/ecografias/Transvaginal/transvaginal2-s.jpg",
     	"titleType":"subtitle",
     	"title":"",
     	"subtitle":"Ecografía  transvaginal:",
-        "paragraph":"La ecografía transvaginal es un examen que se realiza con una sonda ecográfica especializada (sonda transcavitaria), la cual permite el examen de útero, ovarios y lesiones anexiales a través de la vagina, tiene una resolución muy superior al examen ginecológico realizado a través de la pared abdominal y no está limitado por sobrepeso de la paciente o incontinencia urinaria, ya que no requiere retención de orina. Este examen es habitualmente realizado en los 10 primeros días del ciclo menstrual, salvo algunas indicaciones médicas particulares, tener en cuenta que se puede realizar inclusive con presencia de metrorragia (sangrado). La duración del examen es de 10 minutos* aproximadamente y no requiere preparación." 
+		"paragraph":"La ecografía transvaginal es un examen que se realiza con una sonda ecográfica especializada (sonda transcavitaria), la cual permite el examen de útero, ovarios y lesiones anexiales a través de la vagina, tiene una resolución muy superior al examen ginecológico realizado a través de la pared abdominal y no está limitado por sobrepeso de la paciente o incontinencia urinaria, ya que no requiere retención de orina. Este examen es habitualmente realizado en los 10 primeros días del ciclo menstrual, salvo algunas indicaciones médicas particulares, tener en cuenta que se puede realizar inclusive con presencia de metrorragia (sangrado). La duración del examen es de 10 minutos* aproximadamente y no requiere preparación.",
+		"carrouselImgs":[],
+		"carrouselTxt":[]   
     },
     "Text20": {
     	"id":"eco.p20",
@@ -288,12 +302,14 @@
     },
     "Text32": {
     	"id":"eco.p32",
-    	"imgPos":"",
-    	"imgUrl":"",
+    	"imgPos":"left",
+    	"imgUrl":"img/portfolio/ecografias/EcoDopplerVena/EcoDoppler2-s.jpg",
     	"titleType":"subtitle",
     	"title":"",
     	"subtitle":"Doppler venoso de miembros superiores e inferiores: ",
-        "paragraph":"El doppler venoso es un estudio especializado para valorar la función de las válvulas venosas de las venas superficiales y profundas de los miembros superiore  o inferiores, realizando una descripción (mapeo venoso) con doppler color y doppler pulsado, este examen es útil también para el diagnóstico y seguimiento de las trombosis venosas de miembros inferiores superficiales y profundas. No requiere preparación, es muy importante realizar el estudio con el paciente de pie (salvo algunos casos particulares), la duración del estudio es entre 20 y 40 minutos*." 
+		"paragraph":"El doppler venoso es un estudio especializado para valorar la función de las válvulas venosas de las venas superficiales y profundas de los miembros superiore  o inferiores, realizando una descripción (mapeo venoso) con doppler color y doppler pulsado, este examen es útil también para el diagnóstico y seguimiento de las trombosis venosas de miembros inferiores superficiales y profundas. No requiere preparación, es muy importante realizar el estudio con el paciente de pie (salvo algunos casos particulares), la duración del estudio es entre 20 y 40 minutos*.",
+		"carrouselImgs":[],
+		"carrouselTxt":[] 
     },
     "Contact": {
         "address": "Carlos Pellegrini 123, Las Varillas, Córdoba ",

@@ -6,8 +6,6 @@ import Youtube from './youtubeCard/index'
 import Instagram from './instagramCard/index'
 import './testimonials.css'
 
-
-
 export function Novedades(props) {
 
   useEffect(()=>{
@@ -15,7 +13,7 @@ export function Novedades(props) {
   },[])
 
   const getData=(props)=>{
-    Axios.get("https://www.googleapis.com/youtube/v3/playlistItems?part=snippet&maxResults=5&playlistId=RDCJgHn7MeAwc&key=AIzaSyCQZQbFx_cgVf4x3GlU38IIzZIxlqWDueg")
+    Axios.get("https://www.googleapis.com/youtube/v3/playlistItems?part=snippet&maxResults=5&playlistId=PL0Nzx2OTlHZ-M8iIKngOlr7ZC3aT-RkQU&key=AIzaSyCQZQbFx_cgVf4x3GlU38IIzZIxlqWDueg")
     .then(res=>{
         let array=[]
         res.data.items.map(item => {
@@ -50,7 +48,7 @@ export function Novedades(props) {
           <div className="section-title text-center">
             <h2>Novedades</h2>
           </div>
-          <div style={{display:'flex',flexDirection:'row',justifyContent:'center',paddingBottom:'20'}}>
+          {/* <div style={{display:'flex',flexDirection:'row',justifyContent:'center',paddingBottom:'20'}}>
             <div class="btn-group" role="group" aria-label="...">
               <button 
                 type="button"
@@ -63,7 +61,7 @@ export function Novedades(props) {
                 value="instagram" 
                 onClick={(e)=>handleSocial(e)}>Instagram</button>
             </div>
-          </div>
+          </div> */}
           {social==='youtube'?<div><Youtube data={props.data}/></div>:
           <div><Instagram/></div>} 
       </div>

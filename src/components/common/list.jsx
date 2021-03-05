@@ -22,7 +22,7 @@ const List = (props) => {
                <div className="list-style">
                     <div >
                         <ul>
-                            {props.data ? props.data.lista.map((d, i) => <li  key={`${d}-${i}`}>{d}</li>) : 'loading'}
+                            {props.data ? props.data.lista.map((d, i) => <li  key={`${d}-${i}`}>{d}</li>) : null}
                         </ul>
                     </div>
                 </div>

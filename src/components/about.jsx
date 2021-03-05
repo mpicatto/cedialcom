@@ -11,19 +11,32 @@ export class about extends Component {
               <div className="about-text">
                 <h2>Acerca Nuestro</h2>
                 <p>{this.props.data ? this.props.data.paragraph : 'loading...'}</p>
-                <h3>Porque elegirnos?</h3>
-                <div className="list-style">
-                  <div className="col-lg-6 col-sm-6 col-xs-12">
-                    <ul>
-                      {this.props.data ? this.props.data.Why.map((d, i) => <li  key={`${d}-${i}`}>{d}</li>) : 'loading'}
-                    </ul>
-                  </div>
-                  <div className="col-lg-6 col-sm-6 col-xs-12">
-                    <ul>
-                    {this.props.data ? this.props.data.Why2.map((d, i) => <li  key={`${d}-${i}`}> {d}</li>) : 'loading'}
-
-                    </ul>
-                  </div>
+              </div>
+            </div>
+          </div>
+          <div className="col-md-8 " style={{paddingTop:"15px"}}>
+          <h3>Porque elegirnos?</h3>
+          </div>
+          <div className="row">
+            <div className="col-xs-12 col-md-6">
+              <div className="about-text">
+              <div className="list-style">
+                    <div >
+                        <ul>
+                            {this.props.data ? this.props.data.Why.map((d, i) => <li  key={`${d}-${i}`}>{d}</li>) : 'loading'}
+                        </ul>
+                    </div>
+                </div>
+              </div>
+            </div>
+            <div className="col-xs-12 col-md-6">
+              <div className="about-text">
+              <div className="list-style">
+                    <div >
+                        <ul>
+                            {this.props.data ? this.props.data.Why2.map((d, i) => <li  key={`${d}-${i}`}>{d}</li>) : 'loading'}
+                        </ul>
+                    </div>
                 </div>
               </div>
             </div>

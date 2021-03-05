@@ -51,11 +51,6 @@ export class Navigation extends Component {
                   TOMOGRAFIAS
                 </Link>
               </li>
-              <li>
-                <a href="#contact" className="page-scroll">
-                  CONTACTO
-                </a>
-              </li>
             </ul>
           </div>
         </div>

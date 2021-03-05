@@ -26,7 +26,7 @@ export function Gallery() {
                     {" "}
                     <a
                       href="/ecografias"
-                      title="Project Title"
+                      title="Ecografías"
                       data-lightbox-gallery="gallery1"
                     >
                       <div className="hover-text">
@@ -35,7 +35,7 @@ export function Gallery() {
                       <img
                         src="img/portfolio/01-small.jpg"
                         className="img-responsive"
-                        alt="Project Title"
+                        alt="Ecografías"
                       />{" "}
                     </a>{" "}
                   </div>
@@ -47,7 +47,7 @@ export function Gallery() {
                     {" "}
                     <a
                       href="/radiografias"
-                      title="Project Title"
+                      title="Radiografías"
                       data-lightbox-gallery="gallery1"
                     >
                       <div className="hover-text">
@@ -56,7 +56,7 @@ export function Gallery() {
                       <img
                         src="img/portfolio/02-small.jpg"
                         className="img-responsive"
-                        alt="Project Title"
+                        alt="Radiografías"
                       />{" "}
                     </a>{" "}
                   </div>
@@ -68,7 +68,7 @@ export function Gallery() {
                     {" "}
                     <a
                       href="/tomografias"
-                      title="Project Title"
+                      title="Tomografías"
                       data-lightbox-gallery="gallery1"
                     >
                       <div className="hover-text">
@@ -77,7 +77,7 @@ export function Gallery() {
                       <img
                         src="img/portfolio/03-small.jpg"
                         className="img-responsive"
-                        alt="Project Title"
+                        alt="Tomografías"
                       />{" "}
                     </a>{" "}
                   </div>

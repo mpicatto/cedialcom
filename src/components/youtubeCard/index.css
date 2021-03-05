@@ -1,0 +1,13 @@
+
+#carrousel .rec.rec-arrow {
+	border-radius: 50;
+	color: rgb(0, 17, 255);
+	background-color: rgb(255, 255, 255) ;
+}
+
+
+#carrousel .rec.rec-arrow:active {
+	border-radius: 50;
+	color: rgb(0, 17, 255);
+	background-color: rgb(255, 255, 255) ;
+}

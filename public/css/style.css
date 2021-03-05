@@ -481,19 +481,7 @@ color: #777;
 }
 
 
-  .rec.rec-arrow {
-	border-radius: 50;
-	color: rgb(0, 17, 255);
-	background-color: rgb(255, 255, 255) ;
-}
 
-
-
-.rec.rec-arrow:active {
-	border-radius: 50;
-	color: rgb(0, 17, 255);
-	background-color: rgb(255, 255, 255) ;
-}
 
 
 }

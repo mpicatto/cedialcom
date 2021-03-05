@@ -18,8 +18,8 @@
     },
     "Text2": {
     	"id":"rad.p2",
-    	"imgPos":"",
-    	"imgUrl":"",
+    	"imgPos":"left",
+    	"imgUrl":"img/portfolio/radiografias/osteoarticular/osteo2.jpg",
     	"titleType":"subtitle",
     	"title":"",
     	"subtitle":"Radiografía osteoarticular: ",
@@ -31,25 +31,32 @@
             "Radiografía de cadera",
             "Radiografía de hombro",
             "etc."
-        ]
+		],
+		"carrouselImgs":[],
+		"carrouselTxt":[] 
+		
     },
     "Text3": {
     	"id":"rad.p3",
-    	"imgPos":"",
-    	"imgUrl":"",
+    	"imgPos":"right",
+    	"imgUrl":"img/portfolio/radiografias/torax/toreax1-s.jpg",
     	"titleType":"subtitle",
     	"title":"",
     	"subtitle":"Radiografía tórax: ",
-        "paragraph": "Es un estudio dedicado a la obtención de imágenes radiológicas digitales a través de la emisión de rayos X el cual es captado y digitalizado por un sistema de recolección de datos, con el objetivo de valorar ambos pulmones, área cardiaca así como las costillas de ambos lados. Solo requiere que el paciente se retire la ropa y  los elementos metálicos del área a examinar. El estudio puede durar 5 minutos* por proyección radiológica." 
+		"paragraph": "Es un estudio dedicado a la obtención de imágenes radiológicas digitales a través de la emisión de rayos X el cual es captado y digitalizado por un sistema de recolección de datos, con el objetivo de valorar ambos pulmones, área cardiaca así como las costillas de ambos lados. Solo requiere que el paciente se retire la ropa y  los elementos metálicos del área a examinar. El estudio puede durar 5 minutos* por proyección radiológica." ,
+		"carrouselImgs":[],
+		"carrouselTxt":[] 
     },
     "Text4": {
     	"id":"rad.p4",
-    	"imgPos":"",
-    	"imgUrl":"",
+    	"imgPos":"left",
+    	"imgUrl":"img/portfolio/radiografias/abdominal/abs1-s.jpg",
     	"titleType":"subtitle",
     	"title":"",
     	"subtitle":"Radiografía directa de abdomen:",
-        "paragraph":"Es un estudio dedicado a la obtención de imágenes radiológicas digitales a través de la emisión de rayos X el cual es captado y digitalizado por un sistema de recolección de datos, con el objetivo de valorar la distribución de gas intestinal así como la presencia de cálculos renales o elementos metálicos ingeridos entre muchos otros usos . Solo requiere que el paciente se retire la ropa y  los elementos metálicos del área a examinar. El estudio puede durar 5 minutos* por proyección radiológica.        " 
+		"paragraph":"Es un estudio dedicado a la obtención de imágenes radiológicas digitales a través de la emisión de rayos X el cual es captado y digitalizado por un sistema de recolección de datos, con el objetivo de valorar la distribución de gas intestinal así como la presencia de cálculos renales o elementos metálicos ingeridos entre muchos otros usos . Solo requiere que el paciente se retire la ropa y  los elementos metálicos del área a examinar. El estudio puede durar 5 minutos* por proyección radiológica.",
+		"carrouselImgs":[],
+		"carrouselTxt":[]  
     },
     "Text5": {
     	"id":"rad.p5",
@@ -89,12 +96,14 @@
     },
     "Text9": {
     	"id":"rad.p9",
-    	"imgPos":"",
-    	"imgUrl":"",
+    	"imgPos":"right",
+    	"imgUrl":"img/portfolio/radiografias/Histerosalpingografía/Hister1-s.jpg",
     	"titleType":"subtitle",
     	"title":"",
     	"subtitle":"Histerosalpingografía:",
-        "paragraph":"Este examen consiste en hacer progresar contraste iodado, a través del orificio del cuello del útero, a la cavidad uterina y desde allí a las trompas de Falopio, el procedimiento se realiza con control seriográfico y toma de imágenes radiológicas digitales. El objetivo es descartar adherencias del canal del cuello uterino, lesión en el interior de la cavidad uterina, pero el objetivo principal es la valoración de las trompas de Falopio y la comprobación de que las mismas no se encuentren obstruidas. El estudio puede durar 30 minutos aproximadamente*, se debe realizar en los primeros días del ciclo menstrual y no requiere preparación." 
+		"paragraph":"Este examen consiste en hacer progresar contraste iodado, a través del orificio del cuello del útero, a la cavidad uterina y desde allí a las trompas de Falopio, el procedimiento se realiza con control seriográfico y toma de imágenes radiológicas digitales. El objetivo es descartar adherencias del canal del cuello uterino, lesión en el interior de la cavidad uterina, pero el objetivo principal es la valoración de las trompas de Falopio y la comprobación de que las mismas no se encuentren obstruidas. El estudio puede durar 30 minutos aproximadamente*, se debe realizar en los primeros días del ciclo menstrual y no requiere preparación.",
+		"carrouselImgs":[],
+		"carrouselTxt":[]   
     },
     "Text10": {
     	"id":"rad.p10",
@@ -125,12 +134,14 @@
     },
     "Text13": {
     	"id":"rad.p13",
-    	"imgPos":"",
-    	"imgUrl":"",
+    	"imgPos":"left",
+    	"imgUrl":"img/portfolio/radiografias/Colon/colon1-s.jpg",
     	"titleType":"subtitle",
     	"title":"",
     	"subtitle":"Colon Por Enema:",
-        "paragraph":"El estudio consiste en hacer progresar material de contraste de bario, por medio de un enema, desde el recto hasta el ciego (primera porción del colon), el estudio se sigue y dirige por medio del seriógrafo y se toman imágenes radiológicas digitales simultáneas a la realización del mismo. Requiere preparación, laxante y/o enemas evacuantes y dieta líquida los días anteriores al  examen. La duración del examen es de aproximadamente 40 minutos*." 
+		"paragraph":"El estudio consiste en hacer progresar material de contraste de bario, por medio de un enema, desde el recto hasta el ciego (primera porción del colon), el estudio se sigue y dirige por medio del seriógrafo y se toman imágenes radiológicas digitales simultáneas a la realización del mismo. Requiere preparación, laxante y/o enemas evacuantes y dieta líquida los días anteriores al  examen. La duración del examen es de aproximadamente 40 minutos*.",
+		"carrouselImgs":[],
+		"carrouselTxt":[]   
     },
     "Text14": {
     	"id":"rad.p14",

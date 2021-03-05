@@ -9,46 +9,29 @@
 
     },
     "About": {
-        "paragraph": "Nuestra institución nacio de la iniciativa de un grupo de médicos locales para cubrir la carencia de un centro de diagnóstico nuestra ciudad. Sensibles con la inconveniencia de los pacientes de tener que traladarse a otras ciudades para realizar sus estudios por imágenes, se inviertió en un centro con la tecnología mas moderna y recursos humanos altamente capacidados para brindar la mejor atención. ",
+        "paragraph": "En 1998 un grupo de profesionales provenientes de diferentes instituciones médicas de la ciudad de Las Varillas se unieron para dar vida a un proyecto tan ambicioso como necesario para la comunidad. Su objetivo era proveer de imágenes de alta resolución que complementaran los estudios y diagnósticos de todos los médicos locales y de la región. Así nació el Centro de Diagnóstico de Alta Complejidad Las Varillas Sociedad Anónima, de allí el nombre que nos identifica: CEDIALCOM L.V.S.A.  ",
         "Why": [
-            "Lorem ipsum dolor",
-            "Tempor incididunt",
-            "Lorem ipsum dolor",
-            "Incididunt ut labore"
+            "Por el profesionalismo de nuestros médicos y técnicos.",
+            "Por nuestras instalaciones especialmente diseñadas.",
+            "Por la tecnología de última generación aplicada a nuestros servicios.",
+            "Por el gran abanico de estudios que complementan los diagnósticos médicos.",
+            "Por la tranquilidad que genera nuestro plantel humano."
         ],
         "Why2": [
-            "Aliquip ex ea commodo",
-            "Lorem ipsum dolor",
-            "Exercitation ullamco",
-            "Lorem ipsum dolor"
+            "Por la eficacia y rapidez de nuestros procedimientos.",
+            "Por la cordialidad de nuestro equipo de administrativas.",
+            "Por la capacidad de resolver problemas en caso de emergencias.",
+            "Por la capacitación constante de todo nuestro personal.",
+            "Por lo beneficios de identificar con precisión cualquier anomalía en el interior de nuestro cuerpo."
         ]
     },
-    "Team": [{
-            "img": "img/team/01.jpg",
-            "name": "Dr Juan Perez",
-            "job": "Director"
-        },
-        {
-            "img": "img/team/02.jpg",
-            "name": "Dr Juan Perez",
-            "job": "Tecnico"
-        }, {
-            "img": "img/team/03.jpg",
-            "name": "Dr Juan Perez",
-            "job": "Tecnico"
-        },
-        {
-            "img": "img/team/04.jpg",
-            "name": "Dr Juan Perez",
-            "job": "Tecnico"
-        }
-    ],
+
     "Contact": {
-        "address": "Carlos Pellegrini 123, Las Varillas, Córdoba ",
-        "phone": "+54 3533 456789",
-        "email": "info@company.com",
-        "facebook": "fb.com",
-        "twitter": "instagram.com",
-        "youtube": "youtube.com"
+        "address": "Carlos Pellegrini 145, Las Varillas, Córdoba ",
+        "phone": "03533 422919",
+        "email": "cedialcom@gmail.com",
+        "facebook": "https://www.facebook.com/Cedialcom-LV-SA-101932704705167",
+        "twitter": "https://www.instagram.com/cedialcom/",
+        "youtube": "https://www.youtube.com"
     }
 }

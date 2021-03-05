@@ -4,7 +4,7 @@ import React from 'react'
 import Navigation from './../common/navigation';
 import Header from './../common/header';
 import Text from './../common/text'
-import Contact from './../common/contact';
+import ImgLink from './../common/textUrlImg'
 import JsonData from './data/ecografias.json';
 
 const Ecos = () =>  {
@@ -16,24 +16,24 @@ const Ecos = () =>  {
         <Navigation />
         <Header data={data.Header} />
         <Text data={data.Text1} />
-        <Text data={data.Text2} />
-        <Text data={data.Text3} />
-        <Text data={data.Text4} />
+        <ImgLink data={data.Text2} />
+        <ImgLink data={data.Text3} />
+        <ImgLink data={data.Text4} />
         <Text data={data.Text5} />
         <Text data={data.Text6} />
         <Text data={data.Text7} />
-        <Text data={data.Text8} />
+        <ImgLink data={data.Text8} />
         <Text data={data.Text9} />
         <Text data={data.Text10} />
         <Text data={data.Text11} />
         <Text data={data.Text12} />
         <Text data={data.Text13} />
-        <Text data={data.Text14} />
+        <ImgLink data={data.Text14} />
         <Text data={data.Text15} />
         <Text data={data.Text16} />
         <Text data={data.Text17} />
-        <Text data={data.Text18} />
-        <Text data={data.Text19} />
+        <ImgLink data={data.Text18} />
+        <ImgLink  data={data.Text19} />
         <Text data={data.Text20} />
         <Text data={data.Text21} />
         <Text data={data.Text22} />
@@ -46,7 +46,7 @@ const Ecos = () =>  {
         <Text data={data.Text29} />
         <Text data={data.Text30} />
         <Text data={data.Text31} />
-        <Text data={data.Text32} />
+        <ImgLink data={data.Text32} />
         <Text data={data.Text21} />
       </div>
     )

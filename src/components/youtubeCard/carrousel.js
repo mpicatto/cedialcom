@@ -2,6 +2,7 @@ import React,{useEffect} from 'react'
 import {connect} from 'react-redux';
 import {setVideo,setDefault} from './../../actions/displayVideo'
 import CarrouselComponent from 'react-elastic-carousel'
+import './index.css'
 
 const Carrousel = (props)=>{
 
@@ -23,7 +24,7 @@ const Carrousel = (props)=>{
             height:"30%"
             
           }}>
-            <CarrouselComponent itemsToShow={1} pagination={false}>
+            <CarrouselComponent id="carrousel" itemsToShow={1} pagination={false}>
                 {props.data.map(item =>
                  
                 <div className="portfolio-item" >

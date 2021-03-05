@@ -44,6 +44,89 @@
     	"subtitle":"",
         "paragraph":"CEDICALCOM LV SA agradece una vez más a la comunidad confiar en sus diagnósticos." 
     },
+    "Text5": {
+    	"id":"tac.p5",
+    	"imgPos":"",
+    	"imgUrl":"",
+    	"titleType":"subtitle",
+    	"title":"",
+    	"subtitle":"Cerebro",
+        "paragraph":"El estudio se realiza en ayunas. Indicada para diagnosticar cefaleas, traumatismos de cráneo, ACV, aneurisma einfecciones. El tiempo aproximado de de realización es de 5 minutos." 
+    },
+    "Text6": {
+    	"id":"tac.p6",
+    	"imgPos":"",
+    	"imgUrl":"",
+    	"titleType":"subtitle",
+    	"title":"",
+    	"subtitle":"Macizo Facial",
+        "paragraph":"El estudio no requiere ninguna preparacion. Indicada para diagnosticar sinusitis, traumas en la región facial, pólipos, etc. El tiempo aproximado  de realización es de 5 minutos." 
+    },
+    "Text7": {
+    	"id":"tac.p7",
+    	"imgPos":"",
+    	"imgUrl":"",
+    	"titleType":"subtitle",
+    	"title":"",
+    	"subtitle":"Cuello ",
+        "paragraph":"El estudio no requiere ninguna preparacion. Indicada para diagnosticar adenopatías.El tiempo aproximado  de realización es de 5 minutos." 
+    },
+    "Text8": {
+    	"id":"tac.p8",
+    	"imgPos":"",
+    	"imgUrl":"",
+    	"titleType":"subtitle",
+    	"title":"",
+    	"subtitle":"Tórax",
+        "paragraph":"El estudio debe realizar en ayunas y se utiliza contraste endovenoso. Indicada para diagnosticar neumopatías, aneurismas, traumatismos en la región toracica  y lesines derivadas o provocadadas por el virus COVID 19 .El tiempo aproximado  de realización es de 7 minutos." 
+    },
+    "Text9": {
+    	"id":"tac.p9",
+    	"imgPos":"",
+    	"imgUrl":"",
+    	"titleType":"subtitle",
+    	"title":"",
+    	"subtitle":"Abdómen y pelvis",
+        "paragraph":"El estudio debe realizar en ayunas y puede requerir contraste endovenoso. Es indicada para diagnosticar afecciones digestivas y hepatopancreáticas, las afecciones renales, neoplacias, aneurimas, patologias ginecológicas y traumatismos.El tiempo aproximado  de realización es de 15 minutos." 
+    }, 
+       "Text10": {
+    	"id":"tac.p10",
+    	"imgPos":"",
+    	"imgUrl":"",
+    	"titleType":"subtitle",
+    	"title":"",
+    	"subtitle":"Miembros superiores e inferiores",
+        "paragraph":"El estudio no requiere de preparación previa. Es indicada para diagnosticar traumatismos y tumores oseos.El tiempo aproximado  de realización es de 5 minutos." 
+    },
+    "Text11": {
+    	"id":"tac.p11",
+    	"imgPos":"",
+    	"imgUrl":"",
+    	"titleType":"subtitle",
+    	"title":"",
+    	"subtitle":"Columna",
+        "paragraph":"El estudio no requiere de preparación previa. Es indicada para el diagnóstico de traumatismos en la columna, afecciones discales y óseas. El tiempo aproximado  de realización es de 5 minutos." 
+    },
+    "Text12": {
+    	"id":"tac.p11",
+    	"imgPos":"",
+    	"imgUrl":"",
+    	"titleType":"subtitle",
+    	"title":"",
+    	"subtitle":"Peñascos",
+        "paragraph":"El estudio no requiere de preparación previa. Es indicada para el diagnóstico de afecciones del oído. El tiempo aproximado  de realización es de 5 minutos." 
+    },
+    "Text13": {
+    	"id":"tac.p11",
+    	"imgPos":"",
+    	"imgUrl":"",
+    	"titleType":"subtitle",
+    	"title":"",
+    	"subtitle":"Fístulo-TC",
+        "paragraph":"El estudio no requiere de preparación previa. Es indicada para el diagnóstico de fístulas. El tiempo aproximado  de realización es de 15 minutos." 
+    },
+
+    
     
     "Contact": {
         "address": "Carlos Pellegrini 123, Las Varillas, Córdoba ",

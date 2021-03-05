@@ -43,7 +43,7 @@
             "job": "Director Médico"
         },
         {
-            "img": "img/team/meds/gnavarro.jpg",
+            "img": "img/team/meds/mtonini.jpg",
             "name": "Dr Gabriel Navarro",
             "job": ""
         }, {
@@ -58,9 +58,9 @@
             "job": ""
         },
         {
-            "img": "img/team/meds/mtonini.jpg",
+            "img": "img/team/meds/gnavarro.jpg",
             "name": "Dr Martin Tonini",
-            "job": ""
+            "job": "" 
         }
     ]
     },
@@ -90,7 +90,7 @@
             "job": ""
         },
         {
-            "img": "img/team/04.jpg",
+            "img": "img/team/tecs/jjmainero.jpg",
             "name": "Lic Juan Jose Mainero",
             "job": ""
         }

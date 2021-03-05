@@ -1,7 +1,41 @@
-import React, { Component } from "react";
+import React, {useState} from "react";
+import Axios from 'axios';
 
-export class Contact extends Component {
-  render() {
+function Contact(props) {
+
+  const [data,setData]=useState({
+    name:'',
+    email:'',
+    message:''
+  })
+
+  const emailData = (e)=>{
+    setData({
+      ...data,
+      [e.target.name]:e.target.value
+    })
+  }
+
+  const sendMail = (e) =>{
+    e.preventDefault();
+    console.log(data)
+    Axios.post('https://cedialcom-mailer.herokuapp.com/email',data)
+      .then(res => {
+        if (res){
+           alert("El mensaje ha sido enviado con éxito.")
+           setData({
+            name:'',
+            email:'',
+            message:''
+          })
+          };
+      })
+      .catch(err => {
+        if (err) alert("Error al enviar el mensaje; vuelva a intentar.");
+      });
+
+  }
+  
     return (
       <div>
         <div id="contact">
@@ -21,9 +55,12 @@ export class Contact extends Component {
                         <input
                           type="text"
                           id="name"
+                          name="name"
                           className="form-control"
                           placeholder="Nombre"
                           required="required"
+                          value={data.name}
+                          onChange={(e)=>emailData(e)}
                         />
                         <p className="help-block text-danger"></p>
                       </div>
@@ -33,9 +70,12 @@ export class Contact extends Component {
                         <input
                           type="email"
                           id="email"
+                          name="email"
                           className="form-control"
                           placeholder="Email"
                           required="required"
+                          value={data.email}
+                          onChange={(e)=>emailData(e)}
                         />
                         <p className="help-block text-danger"></p>
                       </div>
@@ -49,11 +89,13 @@ export class Contact extends Component {
                       rows="4"
                       placeholder="Mensaje"
                       required
+                      value={data.message}
+                      onChange={(e)=>emailData(e)}
                     ></textarea>
                     <p className="help-block text-danger"></p>
                   </div>
                   <div id="success"></div>
-                  <button type="submit" className="btn btn-custom btn-lg">
+                  <button type="submit" className="btn btn-custom btn-lg" onClick={(e)=>sendMail(e)}>
                     Enviar Mensaje
                   </button>
                 </form>
@@ -66,7 +108,7 @@ export class Contact extends Component {
                   <span>
                     <i className="fa fa-map-marker"></i> Dirección
                   </span>
-                  {this.props.data ? this.props.data.address : "loading"}
+                  {props.data ? props.data.address : "loading"}
                 </p>
               </div>
               <div className="contact-item">
@@ -74,7 +116,7 @@ export class Contact extends Component {
                   <span>
                     <i className="fa fa-phone"></i> Teléfono
                   </span>{" "}
-                  {this.props.data ? this.props.data.phone : "loading"}
+                  {props.data ? props.data.phone : "loading"}
                 </p>
               </div>
               <div className="contact-item">
@@ -82,7 +124,7 @@ export class Contact extends Component {
                   <span>
                     <i className="fa fa-envelope-o"></i> Email
                   </span>{" "}
-                  {this.props.data ? this.props.data.email : "loading"}
+                  {props.data ? props.data.email : "loading"}
                 </p>
               </div>
             </div>
@@ -92,18 +134,18 @@ export class Contact extends Component {
                   <ul>
                     <li>
                       <a
-                        href={this.props.data ? this.props.data.facebook : "/"}
+                        href={props.data ? props.data.facebook : "/"}
                       >
                         <i className="fa fa-facebook"></i>
                       </a>
                     </li>
                     <li>
-                      <a href={this.props.data ? this.props.data.twitter : "/"}>
+                      <a href={props.data ? props.data.twitter : "/"}>
                         <i className="fa fa-instagram"></i>
                       </a>
                     </li>
                     <li>
-                      <a href={this.props.data ? this.props.data.youtube : "/"}>
+                      <a href={props.data ? props.data.youtube : "/"}>
                         <i className="fa fa-youtube"></i>
                       </a>
                     </li>
@@ -122,7 +164,6 @@ export class Contact extends Component {
         </div>
       </div>
     );
-  }
 }
 
 export default Contact;
