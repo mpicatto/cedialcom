@@ -49,7 +49,6 @@ const Carrousel = (props)=>{
 const mapStateToProps = state => {
     return{
       data:state.clipData.data,
-  
     }				
   }
   

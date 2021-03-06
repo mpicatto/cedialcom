@@ -2,7 +2,6 @@ import React  from 'react'
 
 const Text = (props) => {
 
-    console.log(props)
     const divId = props.data.id
     const imgPos = props.data.imgPos
     const imgUrl = props.data.imgUrl
@@ -30,6 +29,7 @@ const Text = (props) => {
             </div>:null}
           </div>
         </div>
+        <hr style={{backgroundColor:"#6372ff"}}/>
       </div>
     )
     }else{
@@ -44,6 +44,7 @@ const Text = (props) => {
             </div>
           </div>
         </div>
+        {titletype===""||titletype==="title"||props.data.paragraph===""?null:<hr style={{backgroundColor:"#6372ff"}}/>}
       </div>)
     }
 

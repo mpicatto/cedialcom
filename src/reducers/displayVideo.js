@@ -1,6 +1,6 @@
 import {SET_VIDEO,SET_DEFAULT_VID} from '../actions/displayVideo'
 const initialState = {
-    video:'dkjxfum84OE',
+    video:'smk7nG1xGnw',
 };
 export default function global(state = initialState, action){
 if (action.type === SET_VIDEO){

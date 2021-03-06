@@ -10,6 +10,7 @@ import Socios from './components/team/socios'
 import Medicos from './components/team/medicos'
 import Tecnicos from './components/team/tecnicos'
 import Administrativos from './components/team/administrativos'
+import Carousel from './components/common/Carrousel'
 
 
 const App = () => (
@@ -22,6 +23,7 @@ const App = () => (
     <Route exact path='/medicos' component={Medicos} />
     <Route exact path='/tecnicos' component={Tecnicos} />
     <Route exact path='/administrativos' component={Administrativos} />
+    <Route exact path='/carousel' component={Carousel} />
   </div>
 )
 

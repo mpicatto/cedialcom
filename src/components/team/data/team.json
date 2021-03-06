@@ -7,27 +7,27 @@
         "paragraph": "",
         "team": [{
             "img": "img/team/socios/gortega.jpg",
-            "name": "Dra Graciela Ortega",
+            "name": "Dra. Graciela Ortega",
             "job": "Presidente"
         },
         {
             "img": "img/team/socios/ginsaurralde.jpg",
-            "name": "Dr Gustavo Insaurralde",
+            "name": "Dr. Gustavo Insaurralde",
             "job": "Vice Pte 1ro"
         }, {
             "img": "img/team/socios/hlupi.jpg",
-            "name": "Dr Hugo Lupi",
+            "name": "Dr. Hugo Lupi",
             "job": "Vice Pte 2do"
         }],
         "team1":[
         {
             "img": "img/team/socios/gnapione.jpg",
-            "name": "Dra Graciela Napione",
+            "name": "Dra. Graciela Napione",
             "job": "Consejero"
         },
         {
             "img": "img/team/socios/phernandez.jpg",
-            "name": "Dr Pedro Hernandez",
+            "name": "Dr. Pedro Hernandez",
             "job": "Consejero"
         }
     ]
@@ -39,27 +39,27 @@
         "paragraph": "",
         "team": [{
             "img": "img/team/meds/rbenitez.jpg",
-            "name": "Dr Roberto Benítez",
+            "name": "Dr. Roberto Benítez",
             "job": "Director Médico"
         },
         {
             "img": "img/team/meds/mtonini.jpg",
-            "name": "Dr Gabriel Navarro",
+            "name": "Dr. Gabriel Navarro",
             "job": ""
         }, {
             "img": "img/team/meds/golivero.jpg",
-            "name": "Dra Gabriela Olivero",
+            "name": "Dra. Gabriela Olivero",
             "job": ""
         }],
         "team1":[
         {
             "img": "img/team/meds/rhernandez.jpg",
-            "name": "Dra Romina Hernandez",
+            "name": "Dra. Romina Hernandez",
             "job": ""
         },
         {
             "img": "img/team/meds/gnavarro.jpg",
-            "name": "Dr Martin Tonini",
+            "name": "Dr. Martin Tonini",
             "job": "" 
         }
     ]
@@ -71,27 +71,27 @@
         "paragraph": "",
         "team": [{
             "img": "img/team/tecs/cbrizzio.jpg",
-            "name": "Lic Cesar Brizzio",
+            "name": "Lic. Cesar Brizzio",
             "job": ""
         },
         {
             "img": "img/team/tecs/marnaudo.jpg",
-            "name": "Lic Marcela Arnaudo",
+            "name": "Tec. Marcela Arnaudo",
             "job": ""
         }, {
             "img": "img/team/tecs/mcomba.jpg",
-            "name": "Lic Marianela Comba",
+            "name": "Tec. Marianela Comba",
             "job": ""
         }],
         "team1":[
         {
             "img": "img/team/tecs/gfarias.jpg",
-            "name": "Lic Gonzalo Farías",
+            "name": "Lic. Gonzalo Farías",
             "job": ""
         },
         {
             "img": "img/team/tecs/jjmainero.jpg",
-            "name": "Lic Juan Jose Mainero",
+            "name": "Tec. Juan Jose Mainero",
             "job": ""
         }
     ]

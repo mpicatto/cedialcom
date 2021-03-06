@@ -4,7 +4,6 @@ import React from 'react'
 import Navigation from './../common/navigation';
 import Header from './../common/header';
 import Text from './../common/text';
-import List from './../common/list';
 import ImgLink from './../common/textUrlImg'
 import JsonData from './data/radiografias.json';
 

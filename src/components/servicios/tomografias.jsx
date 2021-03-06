@@ -4,7 +4,6 @@ import React from 'react'
 import Navigation from '../common/navigation';
 import Header from '../common/header';
 import Text from '../common/text';
-import Contact from '../common/contact';
 import JsonData from './data/tomografias.json';
 
 const Tac = () =>  {

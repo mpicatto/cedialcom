@@ -1,6 +1,8 @@
 import React from "react";
-
-export function Gallery() {
+import {connect} from 'react-redux';
+import {setData} from './../actions/modals'
+import ServiceData from './servicios/data/ecografias.json'
+export function Gallery(props) {
 
   const styles = {
     gallery:{
@@ -8,6 +10,11 @@ export function Gallery() {
       flexDirection: "row",
       justifyContent:"center"
     }
+  }
+
+  const setModal = () => {
+    let data = {subtitle:ServiceData.Text2.subtitle,imgArray:ServiceData.Text2.imgArray}
+    props.setData(data)      
   }
     return (
       <div id="portfolio" className="text-center">
@@ -28,6 +35,7 @@ export function Gallery() {
                       href="/ecografias"
                       title="Ecografías"
                       data-lightbox-gallery="gallery1"
+                      onClick={()=>setModal()}
                     >
                       <div className="hover-text">
                         <h4>Ecografías</h4>
@@ -90,4 +98,11 @@ export function Gallery() {
     );
 }
 
-export default Gallery;
+const mapDispatchToProps = dispatch => {
+  return {
+      setData:(data)=>dispatch(setData(data)),
+    }
+}
+
+export default connect(null,mapDispatchToProps)(Gallery)
+
