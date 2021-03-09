@@ -2,7 +2,7 @@
     "Header": {
         "image":"img/portfolio/02-large.jpg",
         "overlay":"rgba(99,114,255,0.45)",
-        "title": "Radiografías",
+        "title": "Radiografía",
         "titleColor":"white",
         "paragraph": "",
         "paragraphColor":"white"

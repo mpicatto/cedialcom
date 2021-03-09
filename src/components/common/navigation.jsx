@@ -1,5 +1,4 @@
 import React, { Component } from "react";
-import {Link} from 'react-router-dom';
 
 export class Navigation extends Component {
   render() {
@@ -31,25 +30,30 @@ export class Navigation extends Component {
             <ul className="nav navbar-nav navbar-right">
 
               <li>
-                <Link to="/#portfolio" className="page-scroll">
+                <a href="/#portfolio" className="page-scroll">
                   PRINCIPAL
-                </Link>
+                </a>
               </li>
 
               <li>
-                <Link to="/ecografias#menu" className="page-scroll">
-                  ECOGRAFIAS
-                </Link>
+                <a href="/ecografia" className="page-scroll">
+                  ECOGRAFIA
+                </a>
               </li>
               <li>
-                <Link to="/radiografias#header" className="page-scroll">
-                  RADIOGRAFIAS
-                </Link>
+                <a href="/radiografia" className="page-scroll">
+                  RADIOGRAFIA
+                </a>
               </li>
               <li>
-                <Link to="/tomografias#header" className="page-scroll">
-                  TOMOGRAFIAS
-                </Link>
+                <a href="/tomografia" className="page-scroll">
+                  TOMOGRAFIA
+                </a>
+              </li>
+              <li>
+                <a href="/mamografia" className="page-scroll">
+                  MAMOGRAFIA
+                </a>
               </li>
             </ul>
           </div>

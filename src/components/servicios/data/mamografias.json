@@ -1,0 +1,74 @@
+{
+    "Header": {
+        "image":"img/portfolio/04-large.jpg",
+        "overlay":"rgba(99,114,255,0.45)",
+        "title": "Mamografía",
+        "titleColor":"white",
+        "paragraph": "",
+        "paragraphColor":"white"
+    },
+    "Text1": {
+    	"id":"mam.p1",
+    	"imgPos":"",
+    	"imgUrl":"",
+    	"titleType":"title",
+    	"title":"LA MAMOGRAFÍA:",
+    	"subtitle":"",
+        "paragraph": "La mamografía es un método de diagnóstico radiológico que  utiliza una baja radiación de rayos X para obtener una imagen digital de la mama mientras está comprimida Detecta  anomalías que usted o su médico puede llegar a no ver ni sentir. La mayoría de estas anomalías no son cáncer, pero estas deben ser  investigadas más a fondo Una mamografía puede identificar cambios en la imagen  hasta dos años antes de que una enfermedad maligna sea detectable clínicamente. Poder  diagnosticar el cáncer de mama temprano, nos da posibilidades de cura completa además de opciones de tratamiento que permiten conservar sus senos."
+    },
+    "Text2": {
+    	"id":"mam.p2",
+    	"imgPos":"",
+    	"imgUrl":"",
+    	"titleType":"subtitle",
+    	"title":"",
+    	"subtitle":"Indicaciones para la realización de una mamografía",
+        "paragraph": "",
+        "lista": [
+		],
+		"imgArray":[]
+		
+    },
+    "Text3": {
+    	"id":"mam.p3",
+    	"imgPos":"",
+    	"imgUrl":"",
+    	"titleType":"",
+    	"title":"",
+    	"subtitle":"",
+        "paragraph": "Una mamografía se puede hacer por dos motivos:",
+        "lista": [
+            "Control",
+            "Porque la mujer o el médico palpa algo"
+		],
+		"imgArray":[]	
+    },
+    "Text4": {
+    	"id":"mam.p4",
+    	"imgPos":"",
+    	"imgUrl":"",
+    	"titleType":"",
+    	"title":"",
+    	"subtitle":"",
+        "paragraph": "Las mujeres con alto riesgo de cáncer de mama deben considerar comenzar las mamografías anuales a una edad más temprana Se consideran de alto riesgo las mujeres con alguna de las siguientes circunstancias:",
+        "lista": [
+            "Madre o hermana con cáncer de mama pre menopáusico",
+            "Biopsia previa con lesión de alto riesgo",
+            "Radiación torácica previa por  linfoma",
+            "Otras condiciones como tener  genes alterados BRCA 1 y 2",
+            "Cáncer de ovario"
+		],
+		"imgArray":[]
+    },
+    "Text5": {
+    	"id":"mam.p5",
+    	"imgPos":"",
+    	"imgUrl":"",
+    	"titleType":"subtitle",
+    	"title":"",
+    	"subtitle":"Riesgos relacionados con la mamografía",
+        "paragraph": "La mamografía  junto a la ecografía son métodos de diagnóstico de rutina que ayudan al diagnóstico precoz.",
+		"imgArray":[]
+    }
+
+}

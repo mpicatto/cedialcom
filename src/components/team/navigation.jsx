@@ -31,30 +31,30 @@ export class Navigation extends Component {
             <ul className="nav navbar-nav navbar-right">
 
               <li>
-                <Link to="/#portfolio" className="page-scroll">
+                <a href="/#team" className="page-scroll">
                   PRINCIPAL
-                </Link>
+                </a>
               </li>
 
               <li>
-                <Link to="/socios#header" className="page-scroll">
+                <a href="/socios#header" className="page-scroll">
                   Socios 
-                </Link>
+                </a>
               </li>
               <li>
-                <Link to="/medicos#header" className="page-scroll">
+                <a href="/medicos#header" className="page-scroll">
                    Médicos
-                </Link>
+                </a>
               </li>
               <li>
-                <Link to="/tecnicos#header" className="page-scroll">
+                <a href="/tecnicos#header" className="page-scroll">
                   Técnicos
-                </Link>
+                </a>
               </li>
               <li>
-                <Link to="/administrativos#header" className="page-scroll">
+                <a href="/administrativos#header" className="page-scroll">
                   Administrativos
-                </Link>
+                </a>
               </li>
             </ul>
           </div>

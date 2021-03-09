@@ -27,65 +27,86 @@ export function Gallery(props) {
           </div>
           <div style={styles.gallery}>
             <div className="portfolio-items">
-              <div className="col-sm-6 col-md-4 col-lg-4">
+              <div className="col-sm-6 col-md-6 col-lg-6">
                 <div className="portfolio-item">
                   <div className="hover-bg">
                     {" "}
                     <a
-                      href="/ecografias"
+                      href="/ecografia"
                       title="Ecografías"
                       data-lightbox-gallery="gallery1"
                       onClick={()=>setModal()}
                     >
                       <div className="hover-text">
-                        <h4>Ecografías</h4>
+                        <h4>Ecografía</h4>
                       </div>
                       <img
                         src="img/portfolio/01-small.jpg"
                         className="img-responsive"
-                        alt="Ecografías"
+                        alt="Ecografía"
                       />{" "}
                     </a>{" "}
                   </div>
                 </div>
               </div>
-              <div className="col-sm-6 col-md-4 col-lg-4">
+              <div className="col-sm-6 col-md-6 col-lg-6">
                 <div className="portfolio-item">
                   <div className="hover-bg">
                     {" "}
                     <a
-                      href="/radiografias"
-                      title="Radiografías"
+                      href="/radiografia"
+                      title="Radiografía"
                       data-lightbox-gallery="gallery1"
                     >
                       <div className="hover-text">
-                        <h4>Radiografías</h4>
+                        <h4>Radiografía</h4>
                       </div>
                       <img
                         src="img/portfolio/02-small.jpg"
                         className="img-responsive"
-                        alt="Radiografías"
+                        alt="Radiografía"
                       />{" "}
                     </a>{" "}
                   </div>
                 </div>
               </div>
-              <div className="col-sm-6 col-md-4 col-lg-4">
+              <div className="col-sm-6 col-md-6 col-lg-6">
                 <div className="portfolio-item">
                   <div className="hover-bg">
                     {" "}
                     <a
-                      href="/tomografias"
-                      title="Tomografías"
+                      href="/tomografia"
+                      title="Tomografía"
                       data-lightbox-gallery="gallery1"
                     >
                       <div className="hover-text">
-                        <h4>Tomografías</h4>
+                        <h4>Tomografía</h4>
                       </div>
                       <img
                         src="img/portfolio/03-small.jpg"
                         className="img-responsive"
-                        alt="Tomografías"
+                        alt="Tomografía"
+                      />{" "}
+                    </a>{" "}
+                  </div>
+                </div>
+              </div>
+              <div className="col-sm-6 col-md-6 col-lg-6">
+                <div className="portfolio-item">
+                  <div className="hover-bg">
+                    {" "}
+                    <a
+                      href="/mamografia"
+                      title="Mamografía"
+                      data-lightbox-gallery="gallery1"
+                    >
+                      <div className="hover-text">
+                        <h4>Mamografía</h4>
+                      </div>
+                      <img
+                        src="img/portfolio/04-small.jpg"
+                        className="img-responsive"
+                        alt="Mamografía"
                       />{" "}
                     </a>{" "}
                   </div>

@@ -2,7 +2,7 @@
     "Header": {
         "image":"img/portfolio/03-large.jpg",
         "overlay":"rgba(99,114,255,0.45)",
-        "title": "Tomografías",
+        "title": "Tomografía",
         "titleColor":"white",
         "paragraph": "",
         "paragraphColor":"white"

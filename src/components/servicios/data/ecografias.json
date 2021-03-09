@@ -2,7 +2,7 @@
     "Header": {
         "image":"img/portfolio/01-large.jpg",
         "overlay":"rgba(99,114,255,0.45)",
-        "title": "Ecografias",
+        "title": "Ecografia",
         "titleColor":"white",
         "paragraph": "",
         "paragraphColor":"white"
