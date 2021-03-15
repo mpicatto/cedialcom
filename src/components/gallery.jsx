@@ -1,7 +1,6 @@
 import React from "react";
 import {connect} from 'react-redux';
 import {setData} from './../actions/modals'
-import ServiceData from './servicios/data/ecografias.json'
 export function Gallery(props) {
 
   const styles = {
@@ -12,10 +11,6 @@ export function Gallery(props) {
     }
   }
 
-  const setModal = () => {
-    let data = {subtitle:ServiceData.Text2.subtitle,imgArray:ServiceData.Text2.imgArray}
-    props.setData(data)      
-  }
     return (
       <div id="portfolio" className="text-center">
         <div className="container">
@@ -35,7 +30,7 @@ export function Gallery(props) {
                       href="/ecografia"
                       title="Ecografías"
                       data-lightbox-gallery="gallery1"
-                      onClick={()=>setModal()}
+               
                     >
                       <div className="hover-text">
                         <h4>Ecografía</h4>
@@ -44,6 +39,7 @@ export function Gallery(props) {
                         src="img/portfolio/01-small.jpg"
                         className="img-responsive"
                         alt="Ecografía"
+                        style={{width:'100%'}}
                       />{" "}
                     </a>{" "}
                   </div>
@@ -65,6 +61,7 @@ export function Gallery(props) {
                         src="img/portfolio/02-small.jpg"
                         className="img-responsive"
                         alt="Radiografía"
+                        style={{width:'100%'}}
                       />{" "}
                     </a>{" "}
                   </div>
@@ -86,6 +83,7 @@ export function Gallery(props) {
                         src="img/portfolio/03-small.jpg"
                         className="img-responsive"
                         alt="Tomografía"
+                        style={{width:'100%'}}
                       />{" "}
                     </a>{" "}
                   </div>
@@ -107,6 +105,7 @@ export function Gallery(props) {
                         src="img/portfolio/04-small.jpg"
                         className="img-responsive"
                         alt="Mamografía"
+                        style={{width:'100%'}}
                       />{" "}
                     </a>{" "}
                   </div>

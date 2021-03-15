@@ -46,7 +46,6 @@ const Contact= ()=> {
                           required="required"
                           onChange={(e)=>emailData(e)}
                         />
-                        <p className="help-block text-danger"></p>
                       </div>
                     </div>
                     <div className="col-md-6">
@@ -59,7 +58,6 @@ const Contact= ()=> {
                           required="required"
                           onChange={(e)=>emailData(e)}
                         />
-                        <p className="help-block text-danger"></p>
                       </div>
                     </div>
                   </div>

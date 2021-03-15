@@ -16,28 +16,21 @@ const Carrousel = (props)=>{
     }
 
     return(
-        <div style={{
-            position: "relative",
-            top: "60%",
-            left: "5%",
-            width: "90%",
-            height:"30%"
-            
-          }}>
+        <div style={{backgroundColor:"black", paddingTop:"2%",paddingBottom:"2%"}}>
             <CarrouselComponent id="carrousel" itemsToShow={1} pagination={false}>
                 {props.data.map(item =>
                  
                 <div className="portfolio-item" >
-                    <div  className="hover-bg" style={{alignItems:"center"}}>
-                    <a href={''} onClick={(e)=>handleOnClick(e,item.videoId,props)}>
-                        <div className="hover-text">
-                           
-                            <h6>{item.title}</h6>
-                            <h6>{item.publishedAt}</h6>
-                          
-                        </div>
-                        <img src={item.thumbnail} style={{height:"70%", width:"100%"}} />
-                    </a>    
+                    <div  className="hover-bg">
+                        <a href={''} onClick={(e)=>handleOnClick(e,item.videoId,props)}>
+                            <div className="hover-text">
+                            
+                                <h6>{item.title}</h6>
+                                <h6>{item.publishedAt}</h6>
+                            
+                            </div>
+                            <img src={item.thumbnail} style={{ width:"100%"}} />
+                        </a>    
                     </div>
                 </div>)
                 }

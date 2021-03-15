@@ -39,12 +39,11 @@ export function Novedades(props) {
   const [social, setsSocial] = useState('youtube')
 
   const handleSocial = (e)=>{
-    console.log(e.target.value)
     setsSocial(e.target.value)
   }
 
     return (
-      <div id="novedades" >
+      <div id="novedades" style={{paddingBottom:"30"}}>
           <div className="section-title text-center">
             <h2>Novedades</h2>
           </div>

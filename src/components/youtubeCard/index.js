@@ -3,15 +3,15 @@ import {connect} from 'react-redux';
 import Carousel from './carrousel';
 import Video from './video'
 
-const styles = {
-  position: "relative",
-  paddingBottom: "60%" /* 16:9 */,
-  paddingTop: 10,
-  height: 0,
-  width:"80%",
-  left: "10%",
-  backgroundColor:"black"
-}
+// const styles = {
+//   position: "relative",
+//   paddingBottom: "50%" /* 16:9 */,
+//   paddingTop: 10,
+
+//   width:"80%",
+//   left: "10%",
+//   backgroundColor:"black"
+// }
 
 const YoutubeCard = (props)=>{
     useEffect(()=>{
@@ -21,16 +21,19 @@ const YoutubeCard = (props)=>{
     const [videoId,setVideoId]=useState(props.videoId)
     
     return(
-          <div
-            className="video"
-            style={styles}            
-          >
-            <Video videoId={videoId}/>
-            <div style={{paddingTop:"10"}}>
-              <Carousel/>
+      <div className="container" style={{display:"flex",flexDirection:"row", justifyContent:"center", paddingBottom:"10%"}}>
+           <div style={{ width:"90%"}}>
+            <div>
+              <div    
+              >
+                <Video videoId={videoId}/>     
+              </div>
+              <div  >
+                <Carousel/>
+              </div>
             </div>
-            
-        </div>
+          </div>
+      </div>
 
     )
 }

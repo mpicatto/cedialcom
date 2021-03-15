@@ -68,11 +68,11 @@ function Contact(props) {
                     <div className="col-md-6">
                       <div className="form-group">
                         <input
-                          type="email"
+                          type="text"
                           id="email"
                           name="email"
                           className="form-control"
-                          placeholder="Email"
+                          placeholder="Email o Numero de Telefono"
                           required="required"
                           value={data.email}
                           onChange={(e)=>emailData(e)}
