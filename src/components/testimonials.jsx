@@ -3,7 +3,7 @@ import Axios from 'axios'
 import {connect} from 'react-redux';
 import {setData} from '../actions/clipData'
 import Youtube from './youtubeCard/index'
-import Instagram from './instagramCard/index'
+// import Instagram from './instagramCard/index'
 import './testimonials.css'
 
 export function Novedades(props) {
@@ -22,12 +22,14 @@ export function Novedades(props) {
             object.videoId=item.snippet.resourceId.videoId
             object.thumbnail=item.snippet.thumbnails.medium.url
             array.push(object)
+            return true
         })
         array.sort((a,b) => (a.publishedAt > b.publishedAt)?1:(a.publishedAt === b.publishedAt)?((a.title >b.title)?1:-1):-1).reverse()
         array.map(object=>{
           object.publishedAt=object.publishedAt.replace('T',' ')
           object.publishedAt=object.publishedAt.split(' ')
           object.publishedAt=object.publishedAt[0].split('-').reverse().join('-')
+          return true
         })
         props.setData(array)
     })
@@ -36,14 +38,14 @@ export function Novedades(props) {
     })
   }
 
-  const [social, setsSocial] = useState('youtube')
+  const [social] = useState('youtube')
 
-  const handleSocial = (e)=>{
-    setsSocial(e.target.value)
-  }
+  // const handleSocial = (e)=>{
+  //   setsSocial(e.target.value)
+  // }
 
     return (
-      <div id="novedades" style={{paddingBottom:"30"}}>
+      <div id="novedades" style={{paddingBottom:"10%"}}>
           <div className="section-title text-center">
             <h2>Novedades</h2>
           </div>
@@ -62,7 +64,7 @@ export function Novedades(props) {
             </div>
           </div> */}
           {social==='youtube'?<div><Youtube data={props.data}/></div>:
-          <div><Instagram/></div>} 
+          null} 
       </div>
     );
   

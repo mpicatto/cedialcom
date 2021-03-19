@@ -158,8 +158,9 @@ function Contact(props) {
         <div id="footer">
           <div className="container text-center">
             <p>
-              Realizado por Mauro Picatto
+              Realizado por Mauro Picatto para:
             </p>
+            <img src={"img/acrox.png"} style={{width:"30%"}} alt={"ACROX web + design"}/>
           </div>
         </div>
       </div>
